@@ -1,20 +1,23 @@
-# Member 1: MediaPipe & Phone detection
-
+import os
 import cv2
 import mediapipe as mp
+from mediapipe.tasks import python
+from mediapipe.tasks.python import vision
 from ultralytics import YOLO
 
-# Upgraded to yolov8s.pt (Small) for much higher phone detection accuracy
+# 1. Initialize YOLO
 model = YOLO("yolov8s.pt")
 
-# Setup MediaPipe Face Mesh for head deviation detection
-mp_face_mesh = mp.solutions.face_mesh
-face_mesh = mp_face_mesh.FaceMesh(
-    max_num_faces=1,
-    refine_landmarks=True,
-    min_detection_confidence=0.5,
-    min_tracking_confidence=0.5
+# 2. Setup MediaPipe Tasks Face Landmarker
+model_path = os.path.join(os.path.dirname(__file__), "face_landmarker.task")
+base_options = python.BaseOptions(model_asset_path=model_path)
+options = vision.FaceLandmarkerOptions(
+    base_options=base_options,
+    output_face_blendshapes=False,
+    output_facial_transformation_matrixes=False,
+    num_faces=1
 )
+detector = vision.FaceLandmarker.create_from_options(options)
 
 cap = cv2.VideoCapture(0)
 
@@ -26,7 +29,7 @@ def get_visual_features():
     phone_detected = 0
     head_deviated = 0
 
-    # 1. Run YOLO inference with lowered confidence threshold and 640px image size
+    # 1. YOLO inference
     results = model(frame, conf=0.10, imgsz=640, verbose=False)
     boxes = results[0].boxes
 
@@ -35,7 +38,6 @@ def get_visual_features():
         conf_score = float(box.conf[0])
         x1, y1, x2, y2 = map(int, box.xyxy[0].tolist())
 
-        # Draw blue bounding box and class name for all detected objects
         label = f"{model.names[cls_id]}: {conf_score:.2f}"
         cv2.rectangle(frame, (x1, y1), (x2, y2), (255, 0, 0), 1)
         cv2.putText(frame, label, (x1, y1 - 5), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (255, 0, 0), 1)
@@ -43,36 +45,31 @@ def get_visual_features():
         # Class 67: Cell phone
         if cls_id == 67:
             phone_detected = 1
-            # Highlight detected phone with a thick green bounding box
             cv2.rectangle(frame, (x1, y1), (x2, y2), (0, 255, 0), 3)
 
-    # 2. Run MediaPipe Face Mesh to detect head angle/looking away
+    # 2. Face Landmarker inference
     rgb_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
-    face_results = face_mesh.process(rgb_frame)
+    mp_image = mp.Image(image_format=mp.ImageFormat.SRGB, data=rgb_frame)
+    detection_result = detector.detect(mp_image)
 
-    if face_results.multi_face_landmarks:
-        for face_landmarks in face_results.multi_face_landmarks:
-            h, w, _ = frame.shape
-            
-            # Key landmarks: Nose tip (1), Left edge of face (234), Right edge of face (454)
-            nose = face_landmarks.landmark[1]
-            left_face = face_landmarks.landmark[234]
-            right_face = face_landmarks.landmark[454]
+    if detection_result.face_landmarks:
+        face_landmarks = detection_result.face_landmarks[0]
+        h, w, _ = frame.shape
 
-            nose_x = nose.x * w
-            left_x = left_face.x * w
-            right_x = right_face.x * w
+        nose = face_landmarks[1]
+        left_face = face_landmarks[234]
+        right_face = face_landmarks[454]
 
-            # Relative position of nose across the face width
-            face_width = right_x - left_x
-            if face_width > 0:
-                relative_nose_pos = (nose_x - left_x) / face_width
+        nose_x = nose.x * w
+        left_x = left_face.x * w
+        right_x = right_face.x * w
 
-                # If the nose moves too far left (< 0.30) or right (> 0.70), head is turned
-                if relative_nose_pos < 0.30 or relative_nose_pos > 0.70:
-                    head_deviated = 1
+        face_width = right_x - left_x
+        if face_width > 0:
+            relative_nose_pos = (nose_x - left_x) / face_width
+            if relative_nose_pos < 0.30 or relative_nose_pos > 0.70:
+                head_deviated = 1
     else:
-        # No face detected in frame (user looked away completely or stepped away)
         head_deviated = 1
 
     features = {"head_deviated": head_deviated, "phone_detected": phone_detected}
