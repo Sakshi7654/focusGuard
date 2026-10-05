@@ -1,0 +1,1476 @@
+timestamp,session_goal,head_deviated,phone_detected,keystroke_count,mouse_click_count,idle_seconds,active_window,source_session
+18:15:12,DSA Practice,0,0,15,0,2.73,dsa focussed.csv - focusGuard - Visual Studio Code,dsa distracted.csv
+18:15:15,DSA Practice,0,0,0,0,5.21,dsa focussed.csv - focusGuard - Visual Studio Code,dsa distracted.csv
+18:15:20,DSA Practice,0,0,0,2,1.54,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:15:25,DSA Practice,0,0,0,0,6.51,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:15:30,DSA Practice,0,0,2,2,1.7,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 4 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:15:35,DSA Practice,0,0,0,1,2.74,(276) YouTube and 4 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:15:40,DSA Practice,0,0,0,0,7.75,(276) YouTube and 4 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:15:45,DSA Practice,0,0,0,0,12.77,(276) YouTube and 4 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:15:50,DSA Practice,0,0,0,0,17.77,(276) YouTube and 4 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:15:55,DSA Practice,0,0,0,0,22.91,(276) YouTube and 4 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:16:00,DSA Practice,0,0,0,0,27.81,(276) YouTube and 4 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:16:05,DSA Practice,0,0,0,0,32.79,(276) YouTube and 4 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:16:10,DSA Practice,0,0,0,1,0.75,dsa focussed.csv - focusGuard - Visual Studio Code,dsa distracted.csv
+18:16:15,DSA Practice,0,0,0,1,1.1,(276) YouTube and 4 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:16:20,DSA Practice,0,0,0,0,6.12,(276) YouTube and 4 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:16:25,DSA Practice,0,0,0,0,11.1,(276) YouTube and 4 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:16:30,DSA Practice,0,0,0,0,16.11,(276) YouTube and 4 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:16:35,DSA Practice,1,0,0,1,0.97,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 4 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:16:40,DSA Practice,0,0,1,1,1.3,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 4 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:16:45,DSA Practice,0,0,25,0,0.01,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 4 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:16:50,DSA Practice,0,0,17,0,0.14,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 4 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:16:55,DSA Practice,0,0,2,1,0.48,New tab and 5 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:17:00,DSA Practice,0,0,1,1,3.26,(276) YouTube and 5 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:17:05,DSA Practice,0,0,0,2,2.98,(276) YouTube and 5 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:17:10,DSA Practice,0,0,4,1,0.92,reddit.com/r/NSUT_Delhi/?solution=8cc19db4a029bbb28cc19db4a029bbb2&js_challenge=1&jsc_token=2824be10929bdc604753c70a67a1c3312c149dae3a5ed071c8dbd6ff5d9a0f03&jsc_orig_r= and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:17:15,DSA Practice,0,0,0,2,3.3,,dsa distracted.csv
+18:17:20,DSA Practice,0,0,0,0,8.44,,dsa distracted.csv
+18:17:25,DSA Practice,0,0,0,1,2.54,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 6 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:17:30,DSA Practice,0,0,0,0,7.53,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 6 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:17:35,DSA Practice,0,0,0,0,12.51,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 6 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:17:40,DSA Practice,0,0,0,0,17.5,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 6 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:17:45,DSA Practice,0,0,0,0,22.5,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 6 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:17:50,DSA Practice,0,0,0,0,27.51,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 6 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:17:55,DSA Practice,0,0,0,0,32.54,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 6 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:18:00,DSA Practice,0,0,0,0,37.51,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 6 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:18:05,DSA Practice,0,0,0,0,42.55,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 6 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:18:10,DSA Practice,1,0,0,0,47.54,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 6 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:18:15,DSA Practice,0,0,0,0,52.53,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 6 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:18:20,DSA Practice,0,0,0,0,57.59,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 6 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:18:25,DSA Practice,0,0,0,0,62.54,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 6 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:18:30,DSA Practice,0,0,0,0,67.51,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 6 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:18:35,DSA Practice,0,0,0,2,0.19,(276) YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:18:40,DSA Practice,0,0,0,0,5.21,(276) WebRTC | Video Calling - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:18:45,DSA Practice,1,0,0,0,10.21,(276) WebRTC | Video Calling - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:18:50,DSA Practice,1,0,0,0,15.21,(276) WebRTC | Video Calling - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:18:55,DSA Practice,0,0,0,1,0.66,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 6 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:19:00,DSA Practice,0,0,0,0,5.67,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 6 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:19:05,DSA Practice,0,0,0,0,10.67,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 6 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:19:10,DSA Practice,0,0,0,0,15.65,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 6 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:19:15,DSA Practice,0,0,0,0,20.69,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 6 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:19:20,DSA Practice,0,0,0,0,25.65,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 6 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:19:25,DSA Practice,0,0,0,0,30.69,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 6 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:19:30,DSA Practice,0,0,0,1,2.76,(1) Instagram and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:19:35,DSA Practice,0,0,0,0,7.74,(1) Instagram and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:19:40,DSA Practice,0,0,0,0,12.77,(1) Instagram and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:19:45,DSA Practice,0,0,0,1,2.09,(276) WebRTC | Video Calling - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:19:50,DSA Practice,0,0,0,2,0.08,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:19:55,DSA Practice,0,0,0,1,2.15,dsa focussed.csv - focusGuard - Visual Studio Code,dsa distracted.csv
+18:20:00,DSA Practice,0,0,0,0,7.16,dsa focussed.csv - focusGuard - Visual Studio Code,dsa distracted.csv
+18:20:05,DSA Practice,0,0,0,1,1.34,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:20:10,DSA Practice,0,0,0,1,4.25,(276) YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:20:15,DSA Practice,0,0,0,1,1.13,(276) YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:20:20,DSA Practice,0,0,0,0,6.04,(276) Captain Smit Machchhar | India Is Proud of You | Salute to a True Hero#nda #Airforce #indian - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:20:25,DSA Practice,0,0,0,0,11.05,(276) Captain Smit Machchhar | India Is Proud of You | Salute to a True Hero#nda #Airforce #indian - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:20:30,DSA Practice,0,0,1,0,3.68,(276) Best Cleaner 🤩 #shorts #viral #trending #amazonfinds #magiceraser - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:20:35,DSA Practice,0,0,1,0,3.04,(276) MoMo Challenge 😰 #shorts - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:20:40,DSA Practice,0,0,0,0,8.08,(276) MoMo Challenge 😰 #shorts - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:20:45,DSA Practice,0,0,0,0,13.01,(276) MoMo Challenge 😰 #shorts - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:20:50,DSA Practice,0,0,2,0,1.55,(276) Colorful Mandala Bookmark 🎨💗 #artsyjayas #art #shorts - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:20:55,DSA Practice,0,0,2,0,2.73,(276) YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:21:00,DSA Practice,0,0,1,0,1.1,(276) Chubby Father & Selfish Son Heart Touching Story @scroll_with_taru #shorts - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:21:05,DSA Practice,0,0,0,0,6.15,(276) Chubby Father & Selfish Son Heart Touching Story @scroll_with_taru #shorts - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:21:10,DSA Practice,1,0,3,0,0.4,(276) Chubby Father & Selfish Son Heart Touching Story @scroll_with_taru #shorts - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:21:15,DSA Practice,0,0,0,0,5.34,(276) Chubby Father & Selfish Son Heart Touching Story @scroll_with_taru #shorts - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:21:20,DSA Practice,0,0,0,0,10.36,(276) Chubby Father & Selfish Son Heart Touching Story @scroll_with_taru #shorts - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:21:25,DSA Practice,0,0,0,0,15.4,(276) Chubby Father & Selfish Son Heart Touching Story @scroll_with_taru #shorts - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:21:30,DSA Practice,0,0,0,0,20.29,(276) Chubby Father & Selfish Son Heart Touching Story @scroll_with_taru #shorts - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:21:35,DSA Practice,0,0,0,0,25.34,(276) Chubby Father & Selfish Son Heart Touching Story @scroll_with_taru #shorts - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:21:40,DSA Practice,0,0,0,0,30.37,(276) Chubby Father & Selfish Son Heart Touching Story @scroll_with_taru #shorts - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:21:45,DSA Practice,0,0,0,0,35.39,(276) Chubby Father & Selfish Son Heart Touching Story @scroll_with_taru #shorts - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:21:50,DSA Practice,0,0,0,0,40.33,(276) Chubby Father & Selfish Son Heart Touching Story @scroll_with_taru #shorts - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:21:55,DSA Practice,0,0,0,0,45.36,(276) Chubby Father & Selfish Son Heart Touching Story @scroll_with_taru #shorts - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:22:00,DSA Practice,1,0,0,0,50.34,(276) Chubby Father & Selfish Son Heart Touching Story @scroll_with_taru #shorts - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:22:05,DSA Practice,0,0,0,0,55.35,(276) Chubby Father & Selfish Son Heart Touching Story @scroll_with_taru #shorts - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:22:10,DSA Practice,0,0,0,0,60.38,(276) Chubby Father & Selfish Son Heart Touching Story @scroll_with_taru #shorts - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:22:15,DSA Practice,0,0,0,0,65.38,(276) Chubby Father & Selfish Son Heart Touching Story @scroll_with_taru #shorts - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:22:20,DSA Practice,0,0,0,0,70.4,(276) Chubby Father & Selfish Son Heart Touching Story @scroll_with_taru #shorts - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:22:25,DSA Practice,0,0,3,0,1.18,(276) Create the coziest reading nook with this dreamy DIY cloud lamp. #craftvibeehm #diy #woodworking - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:22:30,DSA Practice,0,0,1,0,1.94,(276) Kate 💜 #asmr #relaxing #bubbleletters #satisfying - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:22:35,DSA Practice,0,0,0,2,3.97,(276) Kate 💜 #asmr #relaxing #bubbleletters #satisfying - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:22:40,DSA Practice,0,0,0,1,1.97,Telegram,dsa distracted.csv
+18:22:45,DSA Practice,0,0,0,0,6.96,Telegram,dsa distracted.csv
+18:22:50,DSA Practice,0,0,0,0,11.94,Telegram,dsa distracted.csv
+18:22:55,DSA Practice,0,0,0,1,4.88,(276) Kate 💜 #asmr #relaxing #bubbleletters #satisfying - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:23:00,DSA Practice,0,0,2,4,0.41,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:23:05,DSA Practice,0,0,17,0,0.17,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:23:10,DSA Practice,0,0,25,0,0.04,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:23:15,DSA Practice,0,0,21,0,0.19,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:23:20,DSA Practice,0,0,18,0,0.55,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:23:25,DSA Practice,0,0,17,0,0.03,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:23:30,DSA Practice,0,0,1,1,1.02,(1) Instagram and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:23:35,DSA Practice,0,0,0,2,1.76,(276) Kate 💜 #asmr #relaxing #bubbleletters #satisfying - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:23:40,DSA Practice,1,0,0,0,6.73,(276) Kate 💜 #asmr #relaxing #bubbleletters #satisfying - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:23:45,DSA Practice,0,0,0,1,0.38,(1) Instagram and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:23:50,DSA Practice,1,0,0,1,4.57,(276) Kate 💜 #asmr #relaxing #bubbleletters #satisfying - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:23:55,DSA Practice,0,0,0,0,9.59,(276) Kate 💜 #asmr #relaxing #bubbleletters #satisfying - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:24:00,DSA Practice,1,0,0,2,2.44,Instagram and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:24:05,DSA Practice,0,0,0,1,1.04,(276) Kate 💜 #asmr #relaxing #bubbleletters #satisfying - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:24:10,DSA Practice,0,0,0,0,6.0,(276) Kate 💜 #asmr #relaxing #bubbleletters #satisfying - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:24:15,DSA Practice,1,0,0,0,10.99,(276) Kate 💜 #asmr #relaxing #bubbleletters #satisfying - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:24:20,DSA Practice,1,0,0,1,2.39,Instagram and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:24:25,DSA Practice,1,0,0,0,7.46,Instagram and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:24:30,DSA Practice,1,0,0,1,2.09,(276) YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:24:35,DSA Practice,1,0,0,0,7.17,(276) Kate 💜 #asmr #relaxing #bubbleletters #satisfying - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:24:40,DSA Practice,0,0,0,0,12.17,(276) Kate 💜 #asmr #relaxing #bubbleletters #satisfying - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:24:45,DSA Practice,1,0,0,0,17.16,(276) Kate 💜 #asmr #relaxing #bubbleletters #satisfying - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:24:50,DSA Practice,0,0,0,0,22.14,(276) Kate 💜 #asmr #relaxing #bubbleletters #satisfying - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:24:55,DSA Practice,0,0,0,0,27.12,(276) Kate 💜 #asmr #relaxing #bubbleletters #satisfying - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:25:00,DSA Practice,0,0,0,1,0.63,dsa focussed.csv - focusGuard - Visual Studio Code,dsa distracted.csv
+18:25:05,DSA Practice,0,0,0,1,0.56,(276) Kate 💜 #asmr #relaxing #bubbleletters #satisfying - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:25:10,DSA Practice,0,0,1,0,3.72,(276) YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:25:15,DSA Practice,0,0,3,0,2.29,(276) YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:25:20,DSA Practice,0,0,0,0,7.31,(276) YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:25:25,DSA Practice,0,0,1,0,3.2,(276) She Handled it Like A Queen ❤️‍🩹 - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:25:30,DSA Practice,0,0,1,0,5.0,(276) tag that mumma's boy!#tmkoc #trending #funny #comedy #shorts #relatable #shortvideo #funnycomedy - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:25:35,DSA Practice,0,0,1,0,2.28,(276) YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:25:40,DSA Practice,0,0,2,0,1.85,(276) ඔයාලත් මෙහෙමද පාඩම් කරන්නේ #studymotivation #boysvsgirlslove #amiladasanayake #anuradhaperera - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:25:45,DSA Practice,0,0,1,0,2.94,(276) ඔයාලත් මෙහෙමද පාඩම් කරන්නේ #studymotivation #boysvsgirlslove #amiladasanayake #anuradhaperera - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:25:50,DSA Practice,0,0,0,0,7.87,(276) ඔයාලත් මෙහෙමද පාඩම් කරන්නේ #studymotivation #boysvsgirlslove #amiladasanayake #anuradhaperera - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:25:55,DSA Practice,0,0,1,0,0.2,(276) ඔයාලත් මෙහෙමද පාඩම් කරන්නේ #studymotivation #boysvsgirlslove #amiladasanayake #anuradhaperera - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:26:00,DSA Practice,0,0,1,0,0.99,(276) Using 1% pure white paint is game changer💯🎨 #art #acrylicpainting #paintingtechniques #artist - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:26:05,DSA Practice,0,0,0,0,5.98,(276) Using 1% pure white paint is game changer💯🎨 #art #acrylicpainting #paintingtechniques #artist - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:26:10,DSA Practice,0,0,0,0,10.97,(276) Using 1% pure white paint is game changer💯🎨 #art #acrylicpainting #paintingtechniques #artist - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:26:15,DSA Practice,0,0,0,0,15.93,(276) Using 1% pure white paint is game changer💯🎨 #art #acrylicpainting #paintingtechniques #artist - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:26:20,DSA Practice,1,0,2,0,3.89,(276) Elevator prank gone wrong! 😱 #liftprank #comedy #funny - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:26:25,DSA Practice,0,0,1,1,0.04,,dsa distracted.csv
+18:26:30,DSA Practice,1,1,0,0,4.87,dsa focussed.csv - focusGuard - Visual Studio Code,dsa distracted.csv
+18:26:35,DSA Practice,0,0,0,0,9.85,dsa focussed.csv - focusGuard - Visual Studio Code,dsa distracted.csv
+18:26:40,DSA Practice,0,0,0,0,14.88,dsa focussed.csv - focusGuard - Visual Studio Code,dsa distracted.csv
+18:26:45,DSA Practice,0,0,0,3,0.13,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:26:50,DSA Practice,0,0,11,0,0.02,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:26:55,DSA Practice,1,0,9,0,1.86,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:27:00,DSA Practice,0,0,15,0,0.16,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:27:05,DSA Practice,0,0,0,0,5.17,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:27:10,DSA Practice,0,0,0,0,10.21,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:27:15,DSA Practice,0,0,4,0,4.03,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:27:20,DSA Practice,1,0,0,0,9.0,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:27:25,DSA Practice,1,0,0,0,14.01,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:27:30,DSA Practice,0,0,1,1,0.31,(276) Wait For The Ending 🔥😎 #ram #ravan #ramsetu #shriram #boy #experiment #challenge #god #memes #viral - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:27:35,DSA Practice,0,0,1,0,1.05,(276) because the tree came first. || #fypシ #nature #architecture #smart #viral || - YouTube and 6 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:27:40,DSA Practice,0,0,1,1,1.06,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 5 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:27:45,DSA Practice,0,0,0,2,0.43,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 5 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:27:50,DSA Practice,0,0,0,0,5.57,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 5 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:27:55,DSA Practice,0,0,0,0,10.58,New tab and 5 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:28:00,DSA Practice,1,0,0,1,3.12,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 5 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:28:05,DSA Practice,0,0,0,0,8.14,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 5 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:28:10,DSA Practice,0,0,0,0,13.1,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 5 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:28:15,DSA Practice,0,0,0,0,18.16,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 5 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:28:20,DSA Practice,0,0,0,0,23.16,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 5 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:28:25,DSA Practice,1,0,0,0,28.13,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 5 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:28:30,DSA Practice,0,0,0,0,33.15,"NSUT Delhi (NSIT) - For NSUT Students, alumni, faculty and aspirants and 5 more pages - Personal - Microsoft​ Edge",dsa distracted.csv
+18:28:35,DSA Practice,0,0,7,1,0.14,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 5 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:28:40,DSA Practice,0,0,0,0,5.14,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 5 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:28:45,DSA Practice,0,0,0,1,0.94,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 4 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:28:50,DSA Practice,0,0,2,2,2.03,Instagram and 4 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:28:55,DSA Practice,0,0,0,2,0.85,Instagram and 4 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:29:00,DSA Practice,0,0,0,1,0.26,Instagram and 4 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:29:05,DSA Practice,0,0,0,2,2.11,Instagram and 4 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:29:10,DSA Practice,0,0,0,2,1.4,Instagram and 4 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:29:15,DSA Practice,0,0,0,1,1.75,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 4 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:29:20,DSA Practice,0,0,0,4,0.11,Instagram and 4 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:29:25,DSA Practice,0,0,1,2,0.22,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:29:30,DSA Practice,1,0,2,0,4.8,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:29:35,DSA Practice,1,0,0,0,9.77,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:29:40,DSA Practice,0,0,0,0,14.81,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:29:45,DSA Practice,0,0,8,0,0.11,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:29:50,DSA Practice,0,0,14,0,0.32,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:29:55,DSA Practice,1,0,18,0,0.36,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:30:00,DSA Practice,0,0,2,1,0.99,dsa focussed.csv - focusGuard - Visual Studio Code,dsa distracted.csv
+18:30:05,DSA Practice,0,0,0,0,5.95,dsa focussed.csv - focusGuard - Visual Studio Code,dsa distracted.csv
+18:30:10,DSA Practice,0,0,3,2,0.24,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:30:15,DSA Practice,0,0,6,0,0.35,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:30:20,DSA Practice,1,0,2,0,4.31,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:30:25,DSA Practice,1,0,0,0,9.25,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:30:30,DSA Practice,1,0,0,0,14.29,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:30:35,DSA Practice,1,0,0,0,19.29,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:30:40,DSA Practice,1,0,0,0,24.28,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:30:45,DSA Practice,1,0,0,0,29.23,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:30:50,DSA Practice,1,0,0,0,34.35,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:30:55,DSA Practice,1,0,0,0,39.28,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:31:00,DSA Practice,1,0,0,0,44.27,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:31:05,DSA Practice,1,0,0,0,49.29,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:31:10,DSA Practice,1,0,0,0,54.26,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:31:15,DSA Practice,0,0,0,0,59.31,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:31:20,DSA Practice,0,0,0,0,64.3,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:31:25,DSA Practice,0,0,5,1,0.36,New tab and 4 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:31:30,DSA Practice,0,0,10,0,0.12,New tab and 4 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:31:35,DSA Practice,0,0,0,0,5.12,GitHub and 4 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:31:40,DSA Practice,0,0,0,0,10.11,GitHub and 4 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:31:45,DSA Practice,0,0,0,0,15.14,GitHub and 4 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+18:31:50,DSA Practice,0,0,0,1,0.95,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa distracted.csv
+17:49:18,DSA Practice,0,0,18,3,0.04,(1) WhatsApp and 5 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:49:19,DSA Practice,0,1,6,0,0.18,(1) WhatsApp and 5 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:49:24,DSA Practice,0,0,1,3,0.56,data_collector.py - focusGuard - Visual Studio Code,dsa focussed.csv
+17:49:29,DSA Practice,0,0,0,1,0.77,Fixing MediaPipe Solutions Attribute Error - Google Gemini and 3 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:49:34,DSA Practice,0,0,1,3,0.12,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:49:39,DSA Practice,0,0,0,0,5.19,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:49:44,DSA Practice,0,0,0,0,10.14,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:49:49,DSA Practice,0,0,0,0,15.17,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:49:54,DSA Practice,0,0,0,0,20.15,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:49:59,DSA Practice,0,0,6,0,0.17,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:50:04,DSA Practice,0,0,15,0,1.27,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:50:09,DSA Practice,0,0,0,0,6.27,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:50:14,DSA Practice,0,0,0,0,11.23,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:50:19,DSA Practice,0,0,0,0,16.28,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:50:24,DSA Practice,0,0,0,0,21.28,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:50:29,DSA Practice,0,0,0,0,26.29,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:50:34,DSA Practice,0,0,0,0,31.26,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:50:39,DSA Practice,0,0,0,0,36.38,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:50:44,DSA Practice,0,0,0,0,41.33,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:50:49,DSA Practice,0,0,0,0,46.28,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:50:54,DSA Practice,0,0,0,1,3.51,data_collector.py - focusGuard - Visual Studio Code,dsa focussed.csv
+17:50:59,DSA Practice,0,0,0,0,8.55,data_collector.py - focusGuard - Visual Studio Code,dsa focussed.csv
+17:51:04,DSA Practice,0,0,0,1,2.16,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:51:09,DSA Practice,0,0,0,1,3.15,Weekly Contest 522 - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:51:14,DSA Practice,0,0,0,1,2.77,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:51:19,DSA Practice,0,0,0,0,7.8,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:51:24,DSA Practice,0,0,0,0,12.76,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:51:29,DSA Practice,0,0,0,0,17.73,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:51:34,DSA Practice,0,0,0,0,22.76,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:51:39,DSA Practice,0,0,0,0,27.78,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:51:44,DSA Practice,0,0,0,1,0.7,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:51:49,DSA Practice,0,0,0,1,0.78,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:51:54,DSA Practice,0,0,18,0,0.8,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:51:59,DSA Practice,0,0,18,0,0.21,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:52:04,DSA Practice,0,0,11,0,0.14,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:52:09,DSA Practice,0,0,17,0,0.16,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:52:14,DSA Practice,0,0,20,0,0.06,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:52:19,DSA Practice,0,0,25,0,0.17,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:52:24,DSA Practice,0,0,15,0,0.4,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:52:29,DSA Practice,0,0,19,0,0.07,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:52:34,DSA Practice,0,0,15,0,0.15,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:52:39,DSA Practice,0,0,23,0,0.05,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:52:44,DSA Practice,0,0,24,0,0.27,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:52:49,DSA Practice,0,0,13,0,0.8,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:52:54,DSA Practice,0,0,16,0,0.04,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:52:59,DSA Practice,0,0,14,0,0.59,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:53:04,DSA Practice,0,0,15,0,0.2,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:53:09,DSA Practice,0,0,22,0,0.18,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:53:14,DSA Practice,0,0,18,0,0.11,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:53:19,DSA Practice,0,0,21,0,0.22,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:53:24,DSA Practice,0,0,20,0,0.13,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:53:29,DSA Practice,0,0,21,0,0.13,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:53:34,DSA Practice,0,0,19,0,0.13,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:53:39,DSA Practice,0,0,18,0,0.2,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:53:44,DSA Practice,0,0,18,0,0.07,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:53:49,DSA Practice,0,0,18,0,0.32,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:53:54,DSA Practice,0,0,19,0,0.32,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:53:59,DSA Practice,0,0,26,0,0.73,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:54:04,DSA Practice,0,0,22,0,0.77,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:54:09,DSA Practice,0,0,21,0,0.86,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:54:14,DSA Practice,0,0,2,0,0.06,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:54:19,DSA Practice,0,0,16,0,0.22,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:54:24,DSA Practice,0,0,27,0,0.02,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:54:29,DSA Practice,0,0,23,0,0.08,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:54:34,DSA Practice,0,0,18,0,0.17,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:54:39,DSA Practice,0,0,8,1,0.08,D_Divisible_Pairs.cpp - passion - Visual Studio Code,dsa focussed.csv
+17:54:44,DSA Practice,0,1,2,2,0.46,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:54:49,DSA Practice,0,0,0,1,3.91,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:54:54,DSA Practice,0,0,0,0,8.88,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:54:59,DSA Practice,0,0,0,1,4.22,data_collector.py - focusGuard - Visual Studio Code,dsa focussed.csv
+17:55:04,DSA Practice,0,0,0,0,9.21,data_collector.py - focusGuard - Visual Studio Code,dsa focussed.csv
+17:55:09,DSA Practice,0,0,0,0,14.33,data_collector.py - focusGuard - Visual Studio Code,dsa focussed.csv
+17:55:14,DSA Practice,0,0,0,1,4.02,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:55:19,DSA Practice,0,0,0,0,9.07,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:55:24,DSA Practice,0,0,0,0,14.06,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:55:29,DSA Practice,0,0,0,0,19.06,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:55:34,DSA Practice,0,0,0,0,24.05,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:55:39,DSA Practice,0,0,0,0,29.07,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:55:44,DSA Practice,0,0,0,0,34.01,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:55:49,DSA Practice,0,0,0,0,39.06,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:55:54,DSA Practice,0,0,0,0,44.06,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:55:59,DSA Practice,0,0,0,0,49.07,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:56:04,DSA Practice,0,0,0,0,54.07,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:56:09,DSA Practice,0,0,0,0,59.06,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:56:14,DSA Practice,0,0,0,0,64.04,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:56:19,DSA Practice,0,0,0,0,69.07,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:56:24,DSA Practice,0,0,0,0,74.07,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:56:29,DSA Practice,0,0,0,0,79.07,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:56:34,DSA Practice,0,0,0,0,84.06,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:56:39,DSA Practice,0,0,0,0,89.09,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:56:44,DSA Practice,0,0,0,0,94.04,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:56:49,DSA Practice,0,0,0,0,99.08,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:56:54,DSA Practice,0,0,0,0,104.09,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:56:59,DSA Practice,0,0,2,0,0.18,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:57:04,DSA Practice,0,0,25,0,0.04,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:57:09,DSA Practice,0,0,17,0,1.09,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:57:14,DSA Practice,0,0,1,0,4.67,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:57:19,DSA Practice,0,0,0,0,9.7,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:57:24,DSA Practice,0,0,0,0,14.7,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:57:29,DSA Practice,1,0,0,0,19.68,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:57:34,DSA Practice,0,0,0,0,24.66,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:57:39,DSA Practice,0,0,0,0,29.69,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:57:44,DSA Practice,0,0,0,0,34.69,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:57:49,DSA Practice,1,0,0,0,39.68,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:57:54,DSA Practice,0,0,0,0,44.66,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:57:59,DSA Practice,0,0,0,0,49.85,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:58:04,DSA Practice,1,0,0,0,54.69,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:58:09,DSA Practice,0,0,0,0,59.71,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:58:14,DSA Practice,0,0,0,0,64.63,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:58:19,DSA Practice,1,0,0,0,69.68,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:58:24,DSA Practice,0,0,0,0,74.69,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:58:29,DSA Practice,0,0,0,0,79.67,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:58:34,DSA Practice,0,0,0,1,2.33,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:58:39,DSA Practice,0,0,0,0,7.32,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:58:44,DSA Practice,1,0,0,0,12.32,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:58:49,DSA Practice,0,0,0,0,17.32,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:58:54,DSA Practice,0,0,0,0,22.34,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:58:59,DSA Practice,1,0,0,0,27.35,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:59:04,DSA Practice,1,0,0,0,32.33,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:59:09,DSA Practice,1,0,0,0,37.34,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:59:14,DSA Practice,0,0,0,0,42.28,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:59:19,DSA Practice,1,0,0,0,47.32,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:59:24,DSA Practice,1,0,0,0,52.34,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:59:29,DSA Practice,0,0,0,0,57.32,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:59:34,DSA Practice,0,0,0,0,62.3,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:59:39,DSA Practice,0,0,0,0,67.35,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:59:44,DSA Practice,0,0,0,0,72.34,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:59:49,DSA Practice,0,0,0,0,77.33,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:59:54,DSA Practice,0,0,0,0,82.33,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+17:59:59,DSA Practice,1,0,0,0,87.31,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:00:04,DSA Practice,0,0,3,1,0.18,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:00:09,DSA Practice,0,0,20,0,0.02,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:00:14,DSA Practice,0,0,15,0,0.02,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:00:19,DSA Practice,0,0,10,0,1.9,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:00:24,DSA Practice,0,0,0,1,1.44,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:00:29,DSA Practice,0,0,0,1,1.96,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:00:34,DSA Practice,0,0,0,0,6.98,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:00:39,DSA Practice,1,0,0,0,11.96,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:00:44,DSA Practice,0,0,0,0,16.97,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:00:49,DSA Practice,0,0,0,0,21.99,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:00:54,DSA Practice,0,0,0,0,26.97,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:00:59,DSA Practice,0,0,0,0,31.98,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:01:04,DSA Practice,0,0,0,0,36.97,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:01:09,DSA Practice,1,0,0,0,41.96,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:01:14,DSA Practice,1,0,0,0,46.96,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:01:19,DSA Practice,0,0,0,0,51.97,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:01:24,DSA Practice,1,0,0,0,56.94,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:01:29,DSA Practice,0,0,0,0,61.98,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:01:34,DSA Practice,0,0,0,0,66.97,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:01:39,DSA Practice,0,0,0,0,72.0,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:01:44,DSA Practice,0,0,0,0,76.98,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:01:49,DSA Practice,1,0,0,0,81.97,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:01:54,DSA Practice,1,0,0,0,86.96,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:01:59,DSA Practice,0,0,0,0,91.98,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:02:04,DSA Practice,1,0,0,0,96.98,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:02:09,DSA Practice,0,0,0,0,101.99,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:02:14,DSA Practice,0,0,0,0,106.97,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:02:19,DSA Practice,0,0,0,0,111.95,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:02:24,DSA Practice,0,0,0,0,116.92,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:02:29,DSA Practice,0,0,0,0,121.98,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:02:34,DSA Practice,0,0,0,1,4.08,data_collector.py - focusGuard - Visual Studio Code,dsa focussed.csv
+18:02:39,DSA Practice,0,0,0,1,0.59,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:02:44,DSA Practice,1,0,0,0,5.63,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:02:49,DSA Practice,1,0,0,0,10.64,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:02:54,DSA Practice,1,0,0,0,15.65,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:02:59,DSA Practice,0,0,0,0,20.67,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:03:04,DSA Practice,1,0,0,0,25.63,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:03:09,DSA Practice,1,0,0,0,30.65,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:03:14,DSA Practice,1,0,0,0,35.64,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:03:19,DSA Practice,0,0,0,0,40.68,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:03:24,DSA Practice,0,0,0,0,45.65,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:03:29,DSA Practice,1,0,0,0,50.66,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:03:34,DSA Practice,1,0,0,0,55.63,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:03:39,DSA Practice,1,0,0,0,60.62,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:03:44,DSA Practice,1,0,0,0,65.59,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:03:49,DSA Practice,1,0,0,0,70.66,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:03:54,DSA Practice,1,0,0,0,75.62,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:03:59,DSA Practice,1,0,0,0,80.64,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:04:04,DSA Practice,1,0,0,0,85.63,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:04:09,DSA Practice,1,0,0,0,90.65,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:04:14,DSA Practice,1,0,0,0,95.6,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:04:19,DSA Practice,1,0,0,0,100.63,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:04:24,DSA Practice,1,0,0,0,105.62,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:04:29,DSA Practice,0,0,0,0,110.67,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:04:34,DSA Practice,1,0,0,0,115.64,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:04:39,DSA Practice,1,0,0,0,120.65,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:04:44,DSA Practice,1,0,0,0,125.66,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:04:49,DSA Practice,1,0,0,0,130.66,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:04:54,DSA Practice,1,0,0,0,135.64,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:04:59,DSA Practice,0,0,0,0,140.68,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:05:04,DSA Practice,1,0,0,0,145.67,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:05:09,DSA Practice,1,0,0,0,150.67,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:05:14,DSA Practice,1,0,0,0,155.6,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:05:19,DSA Practice,1,0,0,0,160.61,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:05:24,DSA Practice,0,0,0,0,165.66,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:05:29,DSA Practice,0,0,0,0,170.68,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:05:34,DSA Practice,0,0,0,0,175.65,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:05:39,DSA Practice,0,0,0,0,180.66,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:05:44,DSA Practice,0,0,0,0,185.67,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:05:49,DSA Practice,0,0,0,0,190.67,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:05:54,DSA Practice,1,0,0,0,195.65,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:05:59,DSA Practice,0,0,0,0,200.67,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:06:04,DSA Practice,1,0,0,0,205.68,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:06:09,DSA Practice,0,0,0,0,210.66,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:06:14,DSA Practice,0,0,0,0,215.67,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:06:19,DSA Practice,0,0,0,0,220.67,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:06:24,DSA Practice,0,0,0,0,225.65,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:06:29,DSA Practice,0,0,0,0,230.68,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:06:34,DSA Practice,0,0,0,0,235.66,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:06:39,DSA Practice,0,0,0,0,240.67,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:06:44,DSA Practice,1,0,0,0,245.67,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:06:49,DSA Practice,1,0,0,0,250.63,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:06:54,DSA Practice,1,0,0,0,255.67,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:06:59,DSA Practice,1,0,0,0,260.68,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:07:04,DSA Practice,1,0,0,0,265.67,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:07:09,DSA Practice,1,0,0,0,270.68,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:07:14,DSA Practice,0,0,0,1,0.56,data_collector.py - focusGuard - Visual Studio Code,dsa focussed.csv
+18:07:19,DSA Practice,0,0,0,1,2.02,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:07:24,DSA Practice,0,0,0,0,7.07,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:07:29,DSA Practice,0,0,0,0,11.99,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:07:34,DSA Practice,0,0,0,0,16.99,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:07:39,DSA Practice,0,0,0,1,0.53,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:07:44,DSA Practice,0,0,0,3,1.06,Maximum Pulse Value After One Subarray Rotation - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:07:49,DSA Practice,0,0,0,1,0.84,Maximum Pulse Value After One Subarray Rotation - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:07:54,DSA Practice,0,0,0,0,5.84,Maximum Pulse Value After One Subarray Rotation - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:07:59,DSA Practice,0,0,0,0,10.83,Maximum Pulse Value After One Subarray Rotation - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:08:04,DSA Practice,0,0,0,0,15.86,Maximum Pulse Value After One Subarray Rotation - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:08:09,DSA Practice,0,0,0,1,2.72,Maximum Pulse Value After One Subarray Rotation - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:08:14,DSA Practice,0,0,0,2,2.34,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 3 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:08:19,DSA Practice,0,0,0,1,2.63,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:08:24,DSA Practice,1,0,0,0,7.52,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:08:29,DSA Practice,0,0,0,0,12.62,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:08:34,DSA Practice,0,0,8,1,0.06,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:08:39,DSA Practice,0,0,9,0,2.02,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:08:44,DSA Practice,0,0,3,0,0.4,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:08:49,DSA Practice,0,0,20,0,0.03,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:08:54,DSA Practice,0,0,21,0,0.02,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:08:59,DSA Practice,0,0,15,0,0.53,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:09:04,DSA Practice,0,0,12,0,0.08,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:09:09,DSA Practice,0,0,13,0,0.34,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:09:14,DSA Practice,0,0,11,0,0.44,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:09:19,DSA Practice,0,0,12,0,1.06,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:09:24,DSA Practice,0,0,53,0,0.13,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:09:29,DSA Practice,0,0,15,0,0.02,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:09:34,DSA Practice,0,0,5,0,0.02,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:09:39,DSA Practice,0,0,21,0,1.46,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:09:44,DSA Practice,0,0,8,0,1.03,data_collector.py - focusGuard - Visual Studio Code,dsa focussed.csv
+18:09:49,DSA Practice,0,0,7,1,0.04,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:09:54,DSA Practice,0,0,3,1,1.94,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:09:59,DSA Practice,0,0,14,0,0.45,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:10:04,DSA Practice,0,0,23,0,0.09,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:10:09,DSA Practice,0,0,23,0,0.08,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:10:14,DSA Practice,0,0,8,0,0.13,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:10:19,DSA Practice,0,0,20,0,0.03,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:10:24,DSA Practice,0,0,23,0,0.0,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:10:29,DSA Practice,0,0,13,0,1.11,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:10:34,DSA Practice,0,0,16,0,0.15,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:10:39,DSA Practice,0,0,11,0,0.99,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:10:44,DSA Practice,0,0,14,0,0.25,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:10:49,DSA Practice,0,0,10,0,0.62,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:10:54,DSA Practice,0,0,15,0,1.17,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:10:59,DSA Practice,0,0,15,0,0.05,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:11:04,DSA Practice,0,0,21,0,0.16,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:11:09,DSA Practice,0,0,18,0,1.03,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:11:14,DSA Practice,0,0,0,0,6.06,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:11:19,DSA Practice,0,0,8,0,1.02,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:11:24,DSA Practice,0,0,17,0,0.06,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:11:29,DSA Practice,0,0,12,0,1.07,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:11:34,DSA Practice,0,0,22,0,0.09,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:11:39,DSA Practice,0,0,26,0,0.07,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:11:44,DSA Practice,0,0,24,0,0.18,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:11:49,DSA Practice,0,0,21,0,0.5,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:11:54,DSA Practice,0,0,2,1,0.87,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:11:59,DSA Practice,0,0,17,0,0.02,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:12:04,DSA Practice,0,0,20,0,0.05,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:12:09,DSA Practice,0,0,17,0,0.04,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:12:14,DSA Practice,0,0,16,0,0.07,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:12:19,DSA Practice,0,0,15,0,0.79,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:12:24,DSA Practice,0,0,15,0,0.45,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:12:29,DSA Practice,0,0,13,0,0.01,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:12:34,DSA Practice,0,0,3,1,1.13,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:12:39,DSA Practice,0,0,10,0,0.55,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:12:44,DSA Practice,0,0,13,0,0.06,Maximum Alternating Subarray Sum With One Deletion - LeetCode and 2 more pages - Personal - Microsoft​ Edge,dsa focussed.csv
+18:12:49,DSA Practice,0,0,7,1,0.56,data_collector.py - focusGuard - Visual Studio Code,dsa focussed.csv
+18:12:54,DSA Practice,0,0,0,1,1.01,data_collector.py - focusGuard - Visual Studio Code,dsa focussed.csv
+15:00:00,Assignment Work,0,0,2,0,9.28,Google Docs,member3_ditracted.csv
+15:00:05,Assignment Work,0,0,1,3,3.47,Code,member3_ditracted.csv
+15:00:11,Assignment Work,1,0,2,1,8.47,Instagram,member3_ditracted.csv
+15:00:16,Assignment Work,0,1,1,3,1.03,Code,member3_ditracted.csv
+15:00:21,Assignment Work,0,1,0,3,5.73,Code,member3_ditracted.csv
+15:00:26,Assignment Work,1,1,2,4,2.97,YouTube,member3_ditracted.csv
+15:00:31,Assignment Work,0,0,2,4,5.18,Google Chrome,member3_ditracted.csv
+15:00:35,Assignment Work,0,0,0,1,26.48,YouTube,member3_ditracted.csv
+15:00:41,Assignment Work,0,0,1,0,13.35,Google Chrome,member3_ditracted.csv
+15:00:47,Assignment Work,1,0,1,4,3.87,Code,member3_ditracted.csv
+15:00:52,Assignment Work,1,1,2,0,13.61,Instagram,member3_ditracted.csv
+15:00:57,Assignment Work,1,0,2,3,0.74,Google Chrome,member3_ditracted.csv
+15:01:02,Assignment Work,0,1,0,2,6.98,YouTube,member3_ditracted.csv
+15:01:07,Assignment Work,1,0,1,0,24.65,WhatsApp,member3_ditracted.csv
+15:01:13,Assignment Work,0,0,4,0,0.84,YouTube,member3_ditracted.csv
+15:01:17,Assignment Work,1,0,0,1,17.06,YouTube,member3_ditracted.csv
+15:01:22,Assignment Work,0,1,1,3,3.4,Google Chrome,member3_ditracted.csv
+15:01:27,Assignment Work,0,0,3,1,4.75,Google Chrome,member3_ditracted.csv
+15:01:32,Assignment Work,0,1,2,3,2.08,Google Chrome,member3_ditracted.csv
+15:01:37,Assignment Work,0,1,1,0,6.08,WhatsApp,member3_ditracted.csv
+15:01:42,Assignment Work,1,1,1,1,12.84,YouTube,member3_ditracted.csv
+15:01:48,Assignment Work,1,0,3,1,4.5,WhatsApp,member3_ditracted.csv
+15:01:54,Assignment Work,0,0,1,1,25.72,Google Chrome,member3_ditracted.csv
+15:02:00,Assignment Work,0,1,3,2,1.5,WhatsApp,member3_ditracted.csv
+15:02:05,Assignment Work,0,0,1,4,5.19,Instagram,member3_ditracted.csv
+15:02:10,Assignment Work,0,0,5,1,3.37,Google Docs,member3_ditracted.csv
+15:02:15,Assignment Work,1,0,3,2,4.84,YouTube,member3_ditracted.csv
+15:02:20,Assignment Work,0,0,4,2,1.52,Google Chrome,member3_ditracted.csv
+15:02:25,Assignment Work,1,0,5,3,6.49,Instagram,member3_ditracted.csv
+15:02:30,Assignment Work,0,1,1,3,4.58,Google Chrome,member3_ditracted.csv
+15:02:35,Assignment Work,0,0,0,2,3.9,WhatsApp,member3_ditracted.csv
+15:02:39,Assignment Work,1,0,0,0,7.59,Instagram,member3_ditracted.csv
+15:02:43,Assignment Work,0,1,5,3,1.28,YouTube,member3_ditracted.csv
+15:02:47,Assignment Work,0,0,1,2,6.37,Google Chrome,member3_ditracted.csv
+15:02:52,Assignment Work,1,0,0,1,25.53,YouTube,member3_ditracted.csv
+15:02:57,Assignment Work,1,0,3,0,5.19,Google Chrome,member3_ditracted.csv
+15:03:03,Assignment Work,0,0,2,2,3.61,Google Chrome,member3_ditracted.csv
+15:03:08,Assignment Work,0,1,1,2,2.69,YouTube,member3_ditracted.csv
+15:03:13,Assignment Work,0,0,1,3,3.29,YouTube,member3_ditracted.csv
+15:03:17,Assignment Work,0,0,1,2,3.18,YouTube,member3_ditracted.csv
+15:03:21,Assignment Work,0,0,0,1,10.61,Code,member3_ditracted.csv
+15:03:26,Assignment Work,1,1,1,1,27.0,Instagram,member3_ditracted.csv
+15:03:31,Assignment Work,0,0,1,1,19.34,YouTube,member3_ditracted.csv
+15:03:36,Assignment Work,0,1,2,2,1.7,Instagram,member3_ditracted.csv
+15:03:40,Assignment Work,1,1,0,2,2.34,WhatsApp,member3_ditracted.csv
+15:03:45,Assignment Work,0,1,0,0,17.28,Instagram,member3_ditracted.csv
+15:03:50,Assignment Work,0,1,0,2,2.76,YouTube,member3_ditracted.csv
+15:03:54,Assignment Work,0,1,3,0,6.76,Google Docs,member3_ditracted.csv
+15:04:00,Assignment Work,0,0,5,2,4.61,Google Chrome,member3_ditracted.csv
+15:04:05,Assignment Work,0,0,3,1,2.14,WhatsApp,member3_ditracted.csv
+15:04:10,Assignment Work,1,0,1,1,20.19,Google Chrome,member3_ditracted.csv
+15:04:14,Assignment Work,0,1,6,1,1.54,Google Chrome,member3_ditracted.csv
+15:04:19,Assignment Work,0,0,0,0,13.52,YouTube,member3_ditracted.csv
+15:04:24,Assignment Work,1,1,2,3,1.33,Google Chrome,member3_ditracted.csv
+15:04:29,Assignment Work,1,0,0,1,16.16,YouTube,member3_ditracted.csv
+15:04:34,Assignment Work,1,1,4,1,5.31,Google Chrome,member3_ditracted.csv
+15:04:39,Assignment Work,1,1,0,0,17.76,YouTube,member3_ditracted.csv
+15:04:43,Assignment Work,0,1,1,3,3.44,WhatsApp,member3_ditracted.csv
+15:04:47,Assignment Work,0,0,3,1,3.31,Instagram,member3_ditracted.csv
+15:04:52,Assignment Work,1,0,2,2,1.45,YouTube,member3_ditracted.csv
+15:04:57,Assignment Work,0,1,1,2,1.81,YouTube,member3_ditracted.csv
+15:05:02,Assignment Work,0,0,1,3,2.81,Google Chrome,member3_ditracted.csv
+15:05:07,Assignment Work,0,0,0,3,4.6,Google Chrome,member3_ditracted.csv
+15:05:11,Assignment Work,0,0,0,0,11.53,Google Chrome,member3_ditracted.csv
+15:05:15,Assignment Work,0,1,2,3,3.11,Google Chrome,member3_ditracted.csv
+15:05:20,Assignment Work,1,0,2,1,21.99,WhatsApp,member3_ditracted.csv
+15:05:25,Assignment Work,0,0,3,4,4.08,YouTube,member3_ditracted.csv
+15:05:31,Assignment Work,0,0,0,1,19.0,YouTube,member3_ditracted.csv
+15:05:36,Assignment Work,0,0,3,1,0.76,Google Docs,member3_ditracted.csv
+15:05:41,Assignment Work,1,1,2,4,4.18,Instagram,member3_ditracted.csv
+15:05:46,Assignment Work,0,0,1,1,20.2,WhatsApp,member3_ditracted.csv
+15:05:50,Assignment Work,1,0,2,4,2.15,WhatsApp,member3_ditracted.csv
+15:05:55,Assignment Work,0,0,1,1,8.76,YouTube,member3_ditracted.csv
+15:06:00,Assignment Work,1,0,0,2,3.19,Code,member3_ditracted.csv
+15:06:05,Assignment Work,1,0,1,3,0.81,WhatsApp,member3_ditracted.csv
+15:06:10,Assignment Work,0,0,1,2,2.5,Google Chrome,member3_ditracted.csv
+15:06:15,Assignment Work,1,1,1,5,3.46,Instagram,member3_ditracted.csv
+15:06:19,Assignment Work,1,1,1,1,7.46,Instagram,member3_ditracted.csv
+15:06:23,Assignment Work,0,1,2,2,3.5,YouTube,member3_ditracted.csv
+15:06:28,Assignment Work,0,0,1,2,6.32,Google Chrome,member3_ditracted.csv
+15:06:34,Assignment Work,0,0,1,1,20.85,Code,member3_ditracted.csv
+15:06:39,Assignment Work,0,0,1,5,2.08,Instagram,member3_ditracted.csv
+15:06:43,Assignment Work,0,0,0,1,6.42,Google Chrome,member3_ditracted.csv
+15:06:48,Assignment Work,0,1,0,4,4.58,Instagram,member3_ditracted.csv
+15:06:52,Assignment Work,0,1,3,2,2.28,YouTube,member3_ditracted.csv
+15:06:57,Assignment Work,1,0,1,3,2.76,Code,member3_ditracted.csv
+15:07:02,Assignment Work,1,0,3,1,0.73,Instagram,member3_ditracted.csv
+15:07:07,Assignment Work,1,1,1,2,5.2,Instagram,member3_ditracted.csv
+15:07:12,Assignment Work,1,0,3,4,6.82,Google Chrome,member3_ditracted.csv
+15:07:16,Assignment Work,1,0,0,1,26.49,Google Chrome,member3_ditracted.csv
+15:07:21,Assignment Work,1,0,1,2,2.48,Code,member3_ditracted.csv
+15:07:26,Assignment Work,0,0,5,2,4.21,Google Chrome,member3_ditracted.csv
+15:07:31,Assignment Work,0,1,4,0,4.51,YouTube,member3_ditracted.csv
+15:07:36,Assignment Work,0,0,2,2,3.7,Google Docs,member3_ditracted.csv
+15:07:42,Assignment Work,0,0,1,2,5.27,Google Chrome,member3_ditracted.csv
+15:07:46,Assignment Work,1,0,1,3,2.6,Instagram,member3_ditracted.csv
+15:07:52,Assignment Work,1,0,4,0,0.65,YouTube,member3_ditracted.csv
+15:07:57,Assignment Work,1,0,1,5,5.69,YouTube,member3_ditracted.csv
+15:08:01,Assignment Work,1,0,2,2,6.96,WhatsApp,member3_ditracted.csv
+15:08:07,Assignment Work,1,1,1,3,0.57,YouTube,member3_ditracted.csv
+15:08:13,Assignment Work,0,1,2,2,1.37,Instagram,member3_ditracted.csv
+15:08:18,Assignment Work,0,0,2,1,25.89,Instagram,member3_ditracted.csv
+15:08:22,Assignment Work,0,1,1,3,3.54,Instagram,member3_ditracted.csv
+15:08:27,Assignment Work,0,0,2,4,6.13,Google Chrome,member3_ditracted.csv
+15:08:33,Assignment Work,1,0,1,2,1.27,YouTube,member3_ditracted.csv
+15:08:39,Assignment Work,0,0,0,2,3.45,Code,member3_ditracted.csv
+15:08:44,Assignment Work,1,0,0,5,6.52,Instagram,member3_ditracted.csv
+15:08:49,Assignment Work,1,0,0,0,27.34,WhatsApp,member3_ditracted.csv
+15:08:54,Assignment Work,1,0,4,1,3.56,WhatsApp,member3_ditracted.csv
+15:08:58,Assignment Work,0,0,0,3,3.38,WhatsApp,member3_ditracted.csv
+15:09:03,Assignment Work,1,1,0,4,6.63,Google Chrome,member3_ditracted.csv
+15:09:08,Assignment Work,0,0,2,3,6.22,WhatsApp,member3_ditracted.csv
+15:09:14,Assignment Work,0,0,0,3,2.81,Instagram,member3_ditracted.csv
+15:09:18,Assignment Work,0,0,2,2,1.87,Google Chrome,member3_ditracted.csv
+15:09:24,Assignment Work,1,0,2,2,3.39,YouTube,member3_ditracted.csv
+15:09:29,Assignment Work,0,0,1,2,2.68,Google Docs,member3_ditracted.csv
+15:09:34,Assignment Work,0,0,4,0,3.88,Google Chrome,member3_ditracted.csv
+15:09:40,Assignment Work,0,0,0,4,1.46,WhatsApp,member3_ditracted.csv
+15:09:45,Assignment Work,0,0,1,1,13.78,Google Chrome,member3_ditracted.csv
+15:09:50,Assignment Work,0,1,1,1,13.07,Google Chrome,member3_ditracted.csv
+15:09:55,Assignment Work,1,0,1,5,6.75,YouTube,member3_ditracted.csv
+15:10:00,Assignment Work,1,0,2,2,4.88,Instagram,member3_ditracted.csv
+15:10:04,Assignment Work,0,0,0,2,5.05,Instagram,member3_ditracted.csv
+15:10:09,Assignment Work,0,0,1,1,20.43,Instagram,member3_ditracted.csv
+15:10:14,Assignment Work,0,0,1,3,6.96,Code,member3_ditracted.csv
+15:10:19,Assignment Work,0,0,2,1,13.61,Code,member3_ditracted.csv
+15:10:24,Assignment Work,0,0,1,1,22.45,WhatsApp,member3_ditracted.csv
+15:10:29,Assignment Work,1,0,0,2,6.87,Google Chrome,member3_ditracted.csv
+15:10:33,Assignment Work,1,1,3,3,5.84,YouTube,member3_ditracted.csv
+15:10:39,Assignment Work,1,0,4,2,1.07,Google Chrome,member3_ditracted.csv
+15:10:44,Assignment Work,1,0,4,4,3.31,Google Chrome,member3_ditracted.csv
+15:10:48,Assignment Work,0,0,1,3,5.31,Google Chrome,member3_ditracted.csv
+15:10:53,Assignment Work,0,1,1,0,19.46,YouTube,member3_ditracted.csv
+15:10:58,Assignment Work,1,0,2,1,27.88,Instagram,member3_ditracted.csv
+15:11:03,Assignment Work,0,1,2,2,4.19,YouTube,member3_ditracted.csv
+15:11:08,Assignment Work,1,0,1,2,2.01,WhatsApp,member3_ditracted.csv
+15:11:13,Assignment Work,1,0,2,2,4.18,Google Chrome,member3_ditracted.csv
+15:11:17,Assignment Work,1,1,0,1,21.92,Google Docs,member3_ditracted.csv
+15:11:22,Assignment Work,0,1,1,3,2.51,WhatsApp,member3_ditracted.csv
+15:11:27,Assignment Work,0,1,5,2,1.57,Google Chrome,member3_ditracted.csv
+15:11:33,Assignment Work,0,0,0,1,11.6,WhatsApp,member3_ditracted.csv
+15:11:38,Assignment Work,0,1,0,2,2.95,Google Chrome,member3_ditracted.csv
+15:11:42,Assignment Work,1,0,2,0,23.76,Google Chrome,member3_ditracted.csv
+15:11:48,Assignment Work,1,0,1,0,22.43,Code,member3_ditracted.csv
+15:11:53,Assignment Work,1,0,2,2,2.37,WhatsApp,member3_ditracted.csv
+15:11:59,Assignment Work,1,0,0,2,6.83,Instagram,member3_ditracted.csv
+15:12:04,Assignment Work,0,0,0,2,1.16,YouTube,member3_ditracted.csv
+15:12:10,Assignment Work,1,0,1,5,6.17,WhatsApp,member3_ditracted.csv
+15:12:15,Assignment Work,0,0,5,1,3.46,Instagram,member3_ditracted.csv
+15:12:20,Assignment Work,1,0,0,3,6.26,Instagram,member3_ditracted.csv
+15:12:25,Assignment Work,1,0,5,0,0.91,Code,member3_ditracted.csv
+15:12:29,Assignment Work,1,1,0,5,0.74,YouTube,member3_ditracted.csv
+15:12:34,Assignment Work,1,1,2,1,18.8,Google Chrome,member3_ditracted.csv
+15:12:40,Assignment Work,1,1,3,2,5.88,Instagram,member3_ditracted.csv
+15:12:45,Assignment Work,1,0,0,3,4.67,Instagram,member3_ditracted.csv
+15:12:50,Assignment Work,1,0,6,1,1.85,Google Chrome,member3_ditracted.csv
+15:12:55,Assignment Work,1,0,3,3,0.86,Instagram,member3_ditracted.csv
+15:13:00,Assignment Work,1,1,1,1,21.37,Instagram,member3_ditracted.csv
+15:13:05,Assignment Work,0,0,2,1,6.37,Google Chrome,member3_ditracted.csv
+15:13:10,Assignment Work,0,0,3,0,0.59,Google Chrome,member3_ditracted.csv
+15:13:14,Assignment Work,0,0,2,3,1.53,Google Docs,member3_ditracted.csv
+15:13:19,Assignment Work,0,0,2,1,18.6,YouTube,member3_ditracted.csv
+15:13:24,Assignment Work,0,0,2,1,6.69,WhatsApp,member3_ditracted.csv
+15:13:30,Assignment Work,1,0,1,3,1.55,Code,member3_ditracted.csv
+15:13:36,Assignment Work,0,0,0,1,18.96,YouTube,member3_ditracted.csv
+15:13:41,Assignment Work,1,1,1,4,6.47,Google Chrome,member3_ditracted.csv
+15:13:47,Assignment Work,0,1,3,2,6.35,Google Chrome,member3_ditracted.csv
+15:13:52,Assignment Work,0,0,4,1,1.37,Google Chrome,member3_ditracted.csv
+15:13:57,Assignment Work,1,0,1,1,6.63,Google Chrome,member3_ditracted.csv
+15:14:02,Assignment Work,0,0,5,1,2.09,YouTube,member3_ditracted.csv
+15:14:07,Assignment Work,0,0,0,4,4.2,YouTube,member3_ditracted.csv
+15:14:12,Assignment Work,0,1,1,5,2.79,Instagram,member3_ditracted.csv
+15:14:17,Assignment Work,0,1,1,4,4.72,Instagram,member3_ditracted.csv
+15:14:22,Assignment Work,0,0,1,2,2.44,Google Chrome,member3_ditracted.csv
+15:14:27,Assignment Work,0,0,4,4,4.98,Instagram,member3_ditracted.csv
+15:14:32,Assignment Work,0,0,1,1,24.75,YouTube,member3_ditracted.csv
+15:14:36,Assignment Work,0,0,3,1,1.34,Instagram,member3_ditracted.csv
+15:14:40,Assignment Work,0,0,1,3,5.57,YouTube,member3_ditracted.csv
+15:14:45,Assignment Work,0,0,6,2,6.18,WhatsApp,member3_ditracted.csv
+15:14:50,Assignment Work,1,1,1,2,6.79,Instagram,member3_ditracted.csv
+15:14:55,Assignment Work,1,1,0,3,6.69,WhatsApp,member3_ditracted.csv
+15:15:00,Assignment Work,1,1,2,2,6.25,WhatsApp,member3_ditracted.csv
+15:15:06,Assignment Work,1,0,1,3,3.81,Code,member3_ditracted.csv
+15:15:11,Assignment Work,1,0,2,1,13.15,Google Docs,member3_ditracted.csv
+15:15:16,Assignment Work,0,0,3,4,4.73,Google Chrome,member3_ditracted.csv
+15:15:21,Assignment Work,1,1,1,1,20.54,Instagram,member3_ditracted.csv
+15:15:25,Assignment Work,0,0,0,1,11.59,YouTube,member3_ditracted.csv
+15:15:29,Assignment Work,1,0,1,3,1.27,YouTube,member3_ditracted.csv
+15:15:34,Assignment Work,1,0,2,1,19.62,YouTube,member3_ditracted.csv
+15:15:39,Assignment Work,1,0,0,1,23.26,Instagram,member3_ditracted.csv
+15:15:44,Assignment Work,0,0,4,4,4.99,Google Chrome,member3_ditracted.csv
+15:15:48,Assignment Work,0,0,1,2,4.73,Instagram,member3_ditracted.csv
+15:15:53,Assignment Work,0,0,1,1,20.08,Instagram,member3_ditracted.csv
+15:15:59,Assignment Work,1,0,0,1,10.28,Google Chrome,member3_ditracted.csv
+15:16:04,Assignment Work,0,0,5,3,3.63,Instagram,member3_ditracted.csv
+15:16:10,Assignment Work,0,0,1,1,17.25,YouTube,member3_ditracted.csv
+15:16:15,Assignment Work,0,1,2,1,11.93,Instagram,member3_ditracted.csv
+15:16:20,Assignment Work,1,0,4,3,3.78,Google Chrome,member3_ditracted.csv
+15:16:25,Assignment Work,0,0,0,2,1.91,Google Chrome,member3_ditracted.csv
+15:16:30,Assignment Work,0,1,0,3,2.76,Google Chrome,member3_ditracted.csv
+15:16:35,Assignment Work,1,1,1,5,6.14,Instagram,member3_ditracted.csv
+15:16:39,Assignment Work,0,0,3,1,5.6,Code,member3_ditracted.csv
+15:16:45,Assignment Work,0,0,0,2,3.38,Code,member3_ditracted.csv
+15:16:49,Assignment Work,0,0,3,1,2.97,Code,member3_ditracted.csv
+15:16:54,Assignment Work,1,0,3,2,2.2,Google Chrome,member3_ditracted.csv
+15:16:59,Assignment Work,0,0,1,3,5.42,Google Chrome,member3_ditracted.csv
+15:17:05,Assignment Work,1,0,6,5,6.91,Instagram,member3_ditracted.csv
+15:17:10,Assignment Work,1,1,0,1,19.78,Google Docs,member3_ditracted.csv
+15:17:14,Assignment Work,0,0,1,3,3.01,Instagram,member3_ditracted.csv
+15:17:18,Assignment Work,0,0,3,1,5.72,Instagram,member3_ditracted.csv
+15:17:23,Assignment Work,1,0,1,5,1.6,YouTube,member3_ditracted.csv
+15:17:29,Assignment Work,1,0,0,3,5.76,Instagram,member3_ditracted.csv
+15:17:35,Assignment Work,1,0,0,4,6.03,Instagram,member3_ditracted.csv
+15:17:40,Assignment Work,0,0,3,5,3.19,YouTube,member3_ditracted.csv
+15:17:45,Assignment Work,1,1,3,0,1.24,WhatsApp,member3_ditracted.csv
+15:17:50,Assignment Work,1,1,1,1,22.39,Instagram,member3_ditracted.csv
+15:17:55,Assignment Work,0,0,0,5,5.51,WhatsApp,member3_ditracted.csv
+15:18:00,Assignment Work,0,1,2,3,5.65,WhatsApp,member3_ditracted.csv
+15:18:05,Assignment Work,0,0,2,1,20.68,Code,member3_ditracted.csv
+15:18:10,Assignment Work,0,1,0,1,10.08,Instagram,member3_ditracted.csv
+15:18:15,Assignment Work,0,0,2,2,3.47,Instagram,member3_ditracted.csv
+15:18:20,Assignment Work,0,1,1,2,1.28,Google Chrome,member3_ditracted.csv
+15:18:25,Assignment Work,1,0,1,5,2.2,WhatsApp,member3_ditracted.csv
+15:18:30,Assignment Work,0,0,1,1,25.61,Google Chrome,member3_ditracted.csv
+15:18:35,Assignment Work,0,0,0,4,6.68,Google Chrome,member3_ditracted.csv
+15:18:40,Assignment Work,0,0,3,1,5.09,WhatsApp,member3_ditracted.csv
+15:18:45,Assignment Work,0,0,3,1,0.92,WhatsApp,member3_ditracted.csv
+15:18:50,Assignment Work,0,0,2,0,27.24,Code,member3_ditracted.csv
+15:18:55,Assignment Work,1,0,0,0,8.58,Google Chrome,member3_ditracted.csv
+15:18:59,Assignment Work,0,0,3,2,3.54,Code,member3_ditracted.csv
+15:19:05,Assignment Work,1,1,3,2,1.71,Instagram,member3_ditracted.csv
+15:19:11,Assignment Work,0,0,1,1,23.65,Google Docs,member3_ditracted.csv
+15:19:17,Assignment Work,1,1,0,0,8.59,YouTube,member3_ditracted.csv
+15:19:22,Assignment Work,0,1,0,0,19.76,Instagram,member3_ditracted.csv
+15:19:27,Assignment Work,0,1,1,1,15.57,Instagram,member3_ditracted.csv
+15:19:32,Assignment Work,1,1,3,3,0.69,Instagram,member3_ditracted.csv
+15:19:36,Assignment Work,0,1,1,4,3.49,YouTube,member3_ditracted.csv
+15:19:41,Assignment Work,0,1,5,0,2.81,Google Chrome,member3_ditracted.csv
+15:19:45,Assignment Work,1,0,2,2,3.91,Code,member3_ditracted.csv
+15:19:49,Assignment Work,1,1,0,1,22.99,WhatsApp,member3_ditracted.csv
+15:19:54,Assignment Work,1,0,4,1,3.77,WhatsApp,member3_ditracted.csv
+15:19:59,Assignment Work,0,0,4,3,2.86,Instagram,member3_ditracted.csv
+15:20:03,Assignment Work,1,0,0,4,3.18,Code,member3_ditracted.csv
+15:20:09,Assignment Work,0,0,0,1,15.96,WhatsApp,member3_ditracted.csv
+15:20:13,Assignment Work,0,0,1,3,2.09,Google Chrome,member3_ditracted.csv
+15:20:18,Assignment Work,1,1,0,3,6.82,YouTube,member3_ditracted.csv
+15:20:23,Assignment Work,1,1,3,5,2.14,YouTube,member3_ditracted.csv
+15:20:28,Assignment Work,1,0,5,2,0.75,Google Chrome,member3_ditracted.csv
+15:20:34,Assignment Work,0,0,1,4,3.9,WhatsApp,member3_ditracted.csv
+15:20:38,Assignment Work,1,1,1,2,1.16,Google Chrome,member3_ditracted.csv
+15:20:42,Assignment Work,1,1,1,3,3.29,YouTube,member3_ditracted.csv
+15:20:47,Assignment Work,1,0,4,2,6.43,Instagram,member3_ditracted.csv
+15:20:51,Assignment Work,1,1,0,2,3.93,Google Chrome,member3_ditracted.csv
+15:20:55,Assignment Work,1,0,3,1,2.94,Google Chrome,member3_ditracted.csv
+15:21:01,Assignment Work,0,0,1,1,11.36,Google Docs,member3_ditracted.csv
+10:00:00,Assignment Work,0,0,0,2,2.57,Code,member3_focussed.csv
+10:00:06,Assignment Work,0,0,7,2,1.79,Code,member3_focussed.csv
+10:00:10,Assignment Work,0,0,9,0,2.89,Google Docs,member3_focussed.csv
+10:00:14,Assignment Work,0,0,0,0,4.06,Google Docs,member3_focussed.csv
+10:00:19,Assignment Work,0,0,7,0,0.63,Google Docs,member3_focussed.csv
+10:00:24,Assignment Work,0,0,7,2,2.37,Google Docs,member3_focussed.csv
+10:00:29,Assignment Work,0,0,8,0,0.96,Google Docs,member3_focussed.csv
+10:00:33,Assignment Work,0,0,7,1,2.56,Google Docs,member3_focussed.csv
+10:00:38,Assignment Work,0,0,5,0,1.4,Google Docs,member3_focussed.csv
+10:00:43,Assignment Work,0,0,8,1,3.38,Google Docs,member3_focussed.csv
+10:00:48,Assignment Work,0,0,0,1,3.13,Code,member3_focussed.csv
+10:00:54,Assignment Work,0,0,0,1,1.92,Google Docs,member3_focussed.csv
+10:00:59,Assignment Work,0,0,7,3,2.96,Google Docs,member3_focussed.csv
+10:01:04,Assignment Work,0,0,8,0,1.1,Google Docs,member3_focussed.csv
+10:01:10,Assignment Work,0,0,10,2,1.93,Google Docs,member3_focussed.csv
+10:01:15,Assignment Work,0,0,0,0,5.42,Google Docs,member3_focussed.csv
+10:01:19,Assignment Work,0,0,7,0,3.29,Google Docs,member3_focussed.csv
+10:01:25,Assignment Work,0,0,9,2,3.15,Google Docs,member3_focussed.csv
+10:01:30,Assignment Work,0,0,6,1,3.44,Google Docs,member3_focussed.csv
+10:01:34,Assignment Work,0,0,7,1,3.35,Google Docs,member3_focussed.csv
+10:01:39,Assignment Work,0,0,7,0,3.65,Code,member3_focussed.csv
+10:01:43,Assignment Work,0,0,6,0,0.94,Google Docs,member3_focussed.csv
+10:01:49,Assignment Work,0,0,11,0,3.55,Google Docs,member3_focussed.csv
+10:01:54,Assignment Work,0,0,6,1,2.21,Google Docs,member3_focussed.csv
+10:02:00,Assignment Work,0,0,8,0,1.66,Google Docs,member3_focussed.csv
+10:02:05,Assignment Work,0,0,2,0,2.17,Google Docs,member3_focussed.csv
+10:02:10,Assignment Work,0,0,9,0,1.37,Google Docs,member3_focussed.csv
+10:02:15,Assignment Work,0,0,9,0,1.17,Code,member3_focussed.csv
+10:02:20,Assignment Work,0,0,9,0,0.99,Code,member3_focussed.csv
+10:02:24,Assignment Work,0,0,5,0,0.4,‎Whatsapp,member3_focussed.csv
+10:02:29,Assignment Work,0,0,10,2,1.94,‎Whatsapp,member3_focussed.csv
+10:02:34,Assignment Work,0,0,0,1,3.38,‎Whatsapp,member3_focussed.csv
+10:02:40,Assignment Work,0,0,5,0,2.43,‎Whatsapp,member3_focussed.csv
+10:02:45,Assignment Work,0,0,3,1,2.03,‎Whatsapp,member3_focussed.csv
+10:02:50,Assignment Work,0,0,2,2,1.69,Google Docs,member3_focussed.csv
+10:02:55,Assignment Work,0,0,7,0,1.82,Google Docs,member3_focussed.csv
+10:03:00,Assignment Work,0,0,5,0,0.87,Google Docs,member3_focussed.csv
+10:03:04,Assignment Work,0,0,4,0,3.14,Google Docs,member3_focussed.csv
+10:03:09,Assignment Work,0,0,11,0,0.83,Google Docs,member3_focussed.csv
+10:03:13,Assignment Work,0,0,7,1,2.75,Google Docs,member3_focussed.csv
+10:03:18,Assignment Work,0,0,6,3,2.91,Google Docs,member3_focussed.csv
+10:03:24,Assignment Work,0,0,12,0,2.23,Google Docs,member3_focussed.csv
+10:03:29,Assignment Work,0,0,6,1,3.29,Google Docs,member3_focussed.csv
+10:03:33,Assignment Work,0,0,10,0,1.18,Google Docs,member3_focussed.csv
+10:03:38,Assignment Work,0,0,11,1,3.36,Google Docs,member3_focussed.csv
+10:03:43,Assignment Work,0,0,6,1,2.8,Google Docs,member3_focussed.csv
+10:03:48,Assignment Work,0,0,6,0,3.06,Google Docs,member3_focussed.csv
+10:03:54,Assignment Work,0,0,12,0,2.56,Google Docs,member3_focussed.csv
+10:03:58,Assignment Work,0,0,1,1,3.23,Google Docs,member3_focussed.csv
+10:04:03,Assignment Work,0,0,8,3,3.77,Google Docs,member3_focussed.csv
+10:04:08,Assignment Work,0,0,2,0,1.65,Google Docs,member3_focussed.csv
+10:04:14,Assignment Work,0,0,3,0,3.11,Google Docs,member3_focussed.csv
+10:04:19,Assignment Work,0,0,5,0,2.85,Google Docs,member3_focussed.csv
+10:04:23,Assignment Work,0,0,0,1,1.78,Google Docs,member3_focussed.csv
+10:04:27,Assignment Work,0,0,7,1,3.53,Google Docs,member3_focussed.csv
+10:04:32,Assignment Work,0,0,8,1,1.56,Google Docs,member3_focussed.csv
+10:04:37,Assignment Work,0,0,4,1,2.19,Google Docs,member3_focussed.csv
+10:04:42,Assignment Work,0,0,6,2,0.49,Code,member3_focussed.csv
+10:04:47,Assignment Work,0,0,10,1,0.94,Code,member3_focussed.csv
+10:04:52,Assignment Work,0,0,5,0,3.21,Google Docs,member3_focussed.csv
+10:04:57,Assignment Work,0,0,8,1,1.57,Google Docs,member3_focussed.csv
+10:05:03,Assignment Work,0,0,5,0,1.56,Google Docs,member3_focussed.csv
+10:05:08,Assignment Work,0,0,13,0,1.01,Google Docs,member3_focussed.csv
+10:05:14,Assignment Work,0,0,6,2,1.92,Google Docs,member3_focussed.csv
+10:05:20,Assignment Work,0,0,4,1,3.08,Google Docs,member3_focussed.csv
+10:05:26,Assignment Work,0,0,5,3,3.41,Google Docs,member3_focussed.csv
+10:05:31,Assignment Work,0,0,0,0,4.37,Google Docs,member3_focussed.csv
+10:05:36,Assignment Work,0,0,4,1,2.23,Google Docs,member3_focussed.csv
+10:05:41,Assignment Work,0,0,8,1,1.83,Google Docs,member3_focussed.csv
+10:05:46,Assignment Work,0,0,0,0,8.84,Google Docs,member3_focussed.csv
+10:05:51,Assignment Work,1,0,0,0,7.47,Google Docs,member3_focussed.csv
+10:05:56,Assignment Work,1,0,8,1,1.57,Google Docs,member3_focussed.csv
+10:06:02,Assignment Work,1,0,8,0,1.85,Google Docs,member3_focussed.csv
+10:06:07,Assignment Work,1,0,0,2,2.25,Google Docs,member3_focussed.csv
+10:06:12,Assignment Work,0,0,5,0,1.95,Google Docs,member3_focussed.csv
+10:06:17,Assignment Work,1,0,4,0,1.85,Google Docs,member3_focussed.csv
+10:06:22,Assignment Work,0,0,14,1,3.13,Google Docs,member3_focussed.csv
+10:06:27,Assignment Work,0,0,9,0,2.86,Google Docs,member3_focussed.csv
+10:06:33,Assignment Work,0,0,12,2,1.36,Code,member3_focussed.csv
+10:06:37,Assignment Work,0,0,5,1,3.06,Google Docs,member3_focussed.csv
+10:06:42,Assignment Work,0,0,0,0,10.8,Google Docs,member3_focussed.csv
+10:06:47,Assignment Work,0,0,1,1,0.67,Google Docs,member3_focussed.csv
+10:06:52,Assignment Work,0,0,8,1,2.26,Google Docs,member3_focussed.csv
+10:06:57,Assignment Work,0,0,7,1,1.16,Google Docs,member3_focussed.csv
+10:07:02,Assignment Work,0,0,9,2,2.83,Google Docs,member3_focussed.csv
+10:07:06,Assignment Work,0,0,4,1,0.98,Google Docs,member3_focussed.csv
+10:07:11,Assignment Work,0,0,11,1,2.58,Google Docs,member3_focussed.csv
+10:07:15,Assignment Work,0,0,6,0,1.04,Google Docs,member3_focussed.csv
+10:07:20,Assignment Work,0,0,12,1,1.99,Google Docs,member3_focussed.csv
+10:07:25,Assignment Work,0,0,6,2,3.61,Code,member3_focussed.csv
+10:07:30,Assignment Work,0,0,2,1,1.51,Code,member3_focussed.csv
+10:07:35,Assignment Work,0,0,4,1,3.34,Code,member3_focussed.csv
+10:07:40,Assignment Work,0,0,5,0,3.75,Code,member3_focussed.csv
+10:07:45,Assignment Work,0,0,1,1,3.34,Google Docs,member3_focussed.csv
+10:07:50,Assignment Work,0,0,2,3,0.71,Google Docs,member3_focussed.csv
+10:07:55,Assignment Work,0,0,8,0,3.13,Google Docs,member3_focussed.csv
+10:07:59,Assignment Work,0,0,6,0,0.22,Google Docs,member3_focussed.csv
+10:08:03,Assignment Work,0,0,3,1,1.56,Google Docs,member3_focussed.csv
+10:08:08,Assignment Work,0,0,0,1,3.32,Google Docs,member3_focussed.csv
+10:08:14,Assignment Work,0,0,6,1,2.65,Google Docs,member3_focussed.csv
+10:08:19,Assignment Work,0,0,12,0,2.07,Google Docs,member3_focussed.csv
+10:08:24,Assignment Work,0,0,2,0,1.54,Google Docs,member3_focussed.csv
+10:08:29,Assignment Work,0,0,3,1,3.11,Code,member3_focussed.csv
+10:08:33,Assignment Work,0,0,0,1,2.73,Code,member3_focussed.csv
+10:08:38,Assignment Work,0,0,3,1,1.83,Code,member3_focussed.csv
+10:08:43,Assignment Work,0,0,8,1,3.4,Google Docs,member3_focussed.csv
+10:08:48,Assignment Work,0,0,6,1,0.95,Google Docs,member3_focussed.csv
+10:08:53,Assignment Work,0,0,12,1,0.73,Google Docs,member3_focussed.csv
+10:08:58,Assignment Work,0,0,0,1,2.48,Google Docs,member3_focussed.csv
+10:09:04,Assignment Work,0,0,9,1,3.7,Google Docs,member3_focussed.csv
+10:09:09,Assignment Work,0,0,9,1,1.01,Google Docs,member3_focussed.csv
+10:09:13,Assignment Work,0,0,0,0,5.85,Google Docs,member3_focussed.csv
+10:09:18,Assignment Work,0,0,9,0,0.62,Code,member3_focussed.csv
+10:09:23,Assignment Work,0,0,6,1,3.28,Code,member3_focussed.csv
+10:09:28,Assignment Work,0,0,5,2,0.94,Google Docs,member3_focussed.csv
+10:09:34,Assignment Work,0,0,6,1,1.96,Google Docs,member3_focussed.csv
+10:09:39,Assignment Work,0,0,10,0,3.77,Google Docs,member3_focussed.csv
+10:09:44,Assignment Work,0,0,6,1,0.14,Google Docs,member3_focussed.csv
+10:09:48,Assignment Work,0,0,6,0,2.16,Google Docs,member3_focussed.csv
+10:09:52,Assignment Work,0,0,8,1,2.0,Google Docs,member3_focussed.csv
+10:09:57,Assignment Work,0,0,9,2,3.09,Code,member3_focussed.csv
+10:10:03,Assignment Work,0,0,8,1,1.41,Code,member3_focussed.csv
+10:10:08,Assignment Work,0,0,7,1,1.62,Google Docs,member3_focussed.csv
+10:10:13,Assignment Work,1,0,4,0,0.72,Google Docs,member3_focussed.csv
+10:10:18,Assignment Work,1,0,7,0,2.84,Google Docs,member3_focussed.csv
+10:10:23,Assignment Work,1,0,0,2,3.0,Google Docs,member3_focussed.csv
+10:10:28,Assignment Work,1,0,9,1,0.61,Google Docs,member3_focussed.csv
+10:10:33,Assignment Work,1,0,5,1,1.56,Google Docs,member3_focussed.csv
+10:10:37,Assignment Work,1,0,11,0,3.4,Google Docs,member3_focussed.csv
+10:10:41,Assignment Work,1,0,9,0,0.11,Google Docs,member3_focussed.csv
+10:10:47,Assignment Work,0,0,11,0,1.21,Dock,member3_focussed.csv
+10:10:52,Assignment Work,0,0,6,0,2.15,Code,member3_focussed.csv
+10:10:58,Assignment Work,0,0,7,0,1.34,Google Docs,member3_focussed.csv
+10:11:03,Assignment Work,0,0,9,2,1.11,Google Docs,member3_focussed.csv
+10:11:07,Assignment Work,0,0,6,1,1.8,Code,member3_focussed.csv
+10:11:12,Assignment Work,0,0,0,0,5.29,Code,member3_focussed.csv
+10:11:17,Assignment Work,0,0,12,0,2.06,Google Docs,member3_focussed.csv
+10:11:22,Assignment Work,0,0,6,0,2.71,Google Docs,member3_focussed.csv
+10:11:27,Assignment Work,0,0,8,1,2.23,Google Docs,member3_focussed.csv
+10:11:32,Assignment Work,0,0,6,0,0.44,Google Docs,member3_focussed.csv
+10:11:37,Assignment Work,0,0,7,1,3.22,Google Docs,member3_focussed.csv
+10:11:42,Assignment Work,0,0,11,1,0.75,Google Docs,member3_focussed.csv
+10:11:47,Assignment Work,0,0,2,0,2.93,Google Docs,member3_focussed.csv
+10:11:52,Assignment Work,0,0,7,1,1.43,Google Docs,member3_focussed.csv
+10:11:57,Assignment Work,0,0,3,2,3.0,Google Docs,member3_focussed.csv
+10:12:01,Assignment Work,0,0,0,0,5.49,Google Docs,member3_focussed.csv
+10:12:06,Assignment Work,0,0,9,0,0.79,Google Docs,member3_focussed.csv
+10:12:11,Assignment Work,0,0,6,2,1.94,Google Docs,member3_focussed.csv
+10:12:17,Assignment Work,0,0,0,2,0.22,Google Docs,member3_focussed.csv
+10:12:23,Assignment Work,0,0,9,1,0.93,Google Docs,member3_focussed.csv
+10:12:29,Assignment Work,0,0,7,1,2.78,Code,member3_focussed.csv
+10:12:35,Assignment Work,0,0,7,0,3.2,Google Docs,member3_focussed.csv
+10:12:40,Assignment Work,0,0,0,1,0.4,Google Docs,member3_focussed.csv
+10:12:45,Assignment Work,0,0,1,1,3.36,Google Docs,member3_focussed.csv
+10:12:49,Assignment Work,0,0,8,0,3.05,Google Docs,member3_focussed.csv
+10:12:53,Assignment Work,0,0,5,1,3.32,Google Docs,member3_focussed.csv
+10:12:59,Assignment Work,0,0,6,2,2.68,Google Docs,member3_focussed.csv
+10:13:04,Assignment Work,0,0,7,2,2.59,Google Docs,member3_focussed.csv
+10:13:08,Assignment Work,0,0,8,0,2.04,Google Docs,member3_focussed.csv
+10:13:12,Assignment Work,0,0,10,0,2.52,Google Docs,member3_focussed.csv
+10:13:17,Assignment Work,0,0,0,2,3.5,Google Docs,member3_focussed.csv
+10:13:23,Assignment Work,0,0,0,2,0.47,Google Docs,member3_focussed.csv
+10:13:28,Assignment Work,0,0,6,1,1.27,Google Docs,member3_focussed.csv
+10:13:32,Assignment Work,0,0,7,1,0.37,Google Docs,member3_focussed.csv
+10:13:37,Assignment Work,0,0,8,0,3.6,Google Docs,member3_focussed.csv
+10:13:41,Assignment Work,0,0,3,0,1.75,Google Docs,member3_focussed.csv
+10:13:46,Assignment Work,0,0,4,0,2.6,Google Docs,member3_focussed.csv
+10:13:50,Assignment Work,0,1,0,0,10.7,Google Docs,member3_focussed.csv
+10:13:54,Assignment Work,0,0,1,0,3.77,Google Docs,member3_focussed.csv
+10:13:59,Assignment Work,0,0,9,2,0.7,Google Docs,member3_focussed.csv
+10:14:03,Assignment Work,0,0,6,0,3.06,Google Docs,member3_focussed.csv
+10:14:09,Assignment Work,0,0,6,0,3.38,Google Docs,member3_focussed.csv
+10:14:14,Assignment Work,0,0,3,1,0.28,Google Docs,member3_focussed.csv
+10:14:20,Assignment Work,0,0,10,0,2.89,Google Docs,member3_focussed.csv
+10:14:25,Assignment Work,0,0,7,0,1.41,Code,member3_focussed.csv
+10:14:30,Assignment Work,0,0,5,1,2.5,Code,member3_focussed.csv
+10:14:35,Assignment Work,0,0,8,0,2.0,Google Docs,member3_focussed.csv
+10:14:40,Assignment Work,0,0,11,1,1.06,Google Docs,member3_focussed.csv
+10:14:45,Assignment Work,0,0,9,2,0.6,Google Docs,member3_focussed.csv
+10:14:50,Assignment Work,0,0,0,0,4.76,Google Docs,member3_focussed.csv
+10:14:56,Assignment Work,0,0,0,2,0.48,Google Docs,member3_focussed.csv
+10:15:01,Assignment Work,0,1,2,2,2.46,Google Docs,member3_focussed.csv
+10:15:07,Assignment Work,0,0,11,2,1.4,Code,member3_focussed.csv
+10:15:11,Assignment Work,0,1,7,1,0.9,Code,member3_focussed.csv
+10:15:15,Assignment Work,0,1,1,1,2.66,Code,member3_focussed.csv
+10:15:20,Assignment Work,0,1,8,1,2.64,Code,member3_focussed.csv
+10:15:26,Assignment Work,0,0,7,1,2.09,Code,member3_focussed.csv
+10:15:31,Assignment Work,0,0,9,0,3.56,Google Docs,member3_focussed.csv
+10:15:36,Assignment Work,0,0,1,2,1.53,Google Docs,member3_focussed.csv
+10:15:41,Assignment Work,0,0,7,1,3.19,Google Docs,member3_focussed.csv
+10:15:46,Assignment Work,0,0,7,1,0.38,Google Docs,member3_focussed.csv
+10:15:50,Assignment Work,0,0,4,0,2.84,Google Docs,member3_focussed.csv
+10:15:55,Assignment Work,0,0,9,0,3.76,Google Docs,member3_focussed.csv
+10:15:59,Assignment Work,0,0,0,1,3.23,Google Docs,member3_focussed.csv
+10:16:04,Assignment Work,0,0,5,1,2.24,Google Docs,member3_focussed.csv
+10:16:09,Assignment Work,0,0,12,0,2.42,Google Docs,member3_focussed.csv
+10:16:15,Assignment Work,0,0,7,0,1.41,Google Docs,member3_focussed.csv
+10:16:21,Assignment Work,0,0,12,0,2.61,Code,member3_focussed.csv
+10:16:26,Assignment Work,0,0,4,1,2.95,Code,member3_focussed.csv
+10:16:31,Assignment Work,0,0,7,0,3.79,Code,member3_focussed.csv
+10:16:36,Assignment Work,0,0,8,3,1.92,Code,member3_focussed.csv
+10:16:41,Assignment Work,0,0,5,0,0.33,Google Docs,member3_focussed.csv
+10:16:47,Assignment Work,0,0,6,0,2.3,Google Docs,member3_focussed.csv
+10:16:52,Assignment Work,0,0,6,0,0.54,Google Docs,member3_focussed.csv
+10:16:56,Assignment Work,0,0,10,1,1.01,Google Docs,member3_focussed.csv
+10:17:01,Assignment Work,0,0,8,1,1.32,Google Docs,member3_focussed.csv
+10:17:06,Assignment Work,0,0,5,1,2.8,Google Docs,member3_focussed.csv
+10:17:10,Assignment Work,0,0,6,2,0.78,Google Docs,member3_focussed.csv
+10:17:15,Assignment Work,0,0,9,0,0.71,Google Docs,member3_focussed.csv
+10:17:19,Assignment Work,0,0,11,1,0.27,Google Docs,member3_focussed.csv
+10:17:24,Assignment Work,0,0,0,0,10.96,Google Docs,member3_focussed.csv
+10:17:29,Assignment Work,0,0,12,0,2.67,Google Docs,member3_focussed.csv
+10:17:33,Assignment Work,0,0,10,0,0.25,Google Docs,member3_focussed.csv
+10:17:38,Assignment Work,1,0,5,0,0.2,Google Docs,member3_focussed.csv
+10:17:43,Assignment Work,0,0,4,1,2.17,Code,member3_focussed.csv
+10:17:48,Assignment Work,0,0,0,1,1.15,Google Docs,member3_focussed.csv
+10:17:54,Assignment Work,0,0,8,1,2.31,Google Docs,member3_focussed.csv
+10:17:59,Assignment Work,0,0,0,1,1.71,Google Docs,member3_focussed.csv
+10:18:04,Assignment Work,0,0,3,1,3.52,Google Docs,member3_focussed.csv
+10:18:10,Assignment Work,0,0,9,0,1.16,Google Docs,member3_focussed.csv
+10:18:15,Assignment Work,0,0,7,0,2.61,Google Docs,member3_focussed.csv
+10:18:19,Assignment Work,0,0,7,0,0.3,Google Docs,member3_focussed.csv
+10:18:24,Assignment Work,0,0,9,1,3.64,Google Docs,member3_focussed.csv
+10:18:29,Assignment Work,0,0,6,3,3.73,Google Docs,member3_focussed.csv
+10:18:34,Assignment Work,0,0,6,0,2.83,Google Docs,member3_focussed.csv
+10:18:39,Assignment Work,0,0,9,1,1.82,Google Docs,member3_focussed.csv
+10:18:44,Assignment Work,0,0,8,1,0.91,Google Docs,member3_focussed.csv
+10:18:50,Assignment Work,0,0,0,2,3.11,Google Docs,member3_focussed.csv
+10:18:54,Assignment Work,0,0,5,1,2.82,Code,member3_focussed.csv
+10:18:59,Assignment Work,0,0,9,1,0.92,Google Docs,member3_focussed.csv
+10:19:04,Assignment Work,0,0,10,1,1.77,Google Docs,member3_focussed.csv
+10:19:09,Assignment Work,0,1,13,2,1.81,Google Docs,member3_focussed.csv
+10:19:13,Assignment Work,0,0,8,0,3.16,Google Docs,member3_focussed.csv
+10:19:18,Assignment Work,0,0,6,2,2.63,Google Docs,member3_focussed.csv
+10:19:22,Assignment Work,0,0,4,0,2.48,Google Docs,member3_focussed.csv
+10:19:28,Assignment Work,0,0,2,2,2.5,Google Docs,member3_focussed.csv
+10:19:33,Assignment Work,0,0,6,0,1.1,Google Docs,member3_focussed.csv
+10:19:38,Assignment Work,0,0,1,0,1.48,Google Docs,member3_focussed.csv
+10:19:43,Assignment Work,0,0,8,0,0.27,Google Docs,member3_focussed.csv
+10:19:49,Assignment Work,1,0,5,0,3.01,Google Docs,member3_focussed.csv
+10:19:54,Assignment Work,1,0,9,0,1.7,Google Docs,member3_focussed.csv
+10:20:00,Assignment Work,0,0,4,0,1.72,Google Docs,member3_focussed.csv
+10:20:05,Assignment Work,0,0,7,0,1.01,Google Docs,member3_focussed.csv
+10:20:11,Assignment Work,0,0,11,0,0.87,Google Docs,member3_focussed.csv
+10:20:17,Assignment Work,0,0,9,1,2.27,Google Docs,member3_focussed.csv
+10:20:22,Assignment Work,0,0,7,2,0.96,Google Docs,member3_focussed.csv
+10:20:27,Assignment Work,0,0,8,1,0.34,Google Docs,member3_focussed.csv
+10:20:32,Assignment Work,0,0,0,0,10.09,Google Docs,member3_focussed.csv
+10:20:37,Assignment Work,0,0,9,0,1.49,Google Docs,member3_focussed.csv
+10:20:43,Assignment Work,0,0,1,2,1.51,Google Docs,member3_focussed.csv
+10:20:48,Assignment Work,0,0,0,0,7.34,Google Docs,member3_focussed.csv
+10:20:52,Assignment Work,0,0,4,0,3.12,Code,member3_focussed.csv
+10:20:56,Assignment Work,0,0,7,2,1.29,Code,member3_focussed.csv
+10:21:01,Assignment Work,0,0,6,2,2.9,Code,member3_focussed.csv
+10:21:06,Assignment Work,0,0,9,0,3.58,Code,member3_focussed.csv
+23:55:35,Lecture Study,0,0,16,0,4.91,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+23:55:35,Lecture Study,0,0,0,0,5.28,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+23:55:40,Lecture Study,0,0,0,0,10.3,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+23:55:45,Lecture Study,0,1,0,0,15.27,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+23:55:50,Lecture Study,0,1,0,0,20.28,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+23:55:55,Lecture Study,0,1,0,0,25.26,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+23:56:00,Lecture Study,1,0,0,0,30.26,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+23:56:05,Lecture Study,0,0,0,0,35.26,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+23:56:10,Lecture Study,1,0,0,0,40.26,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+23:56:15,Lecture Study,1,0,0,0,45.29,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+23:56:20,Lecture Study,1,0,0,0,50.25,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+23:56:25,Lecture Study,1,0,0,0,55.28,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+23:56:30,Lecture Study,1,0,0,0,60.27,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+23:56:35,Lecture Study,1,1,0,0,65.3,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+23:56:40,Lecture Study,1,0,0,0,70.28,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+23:56:45,Lecture Study,0,0,0,0,75.3,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+23:56:51,Lecture Study,0,0,0,2,0.7,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+23:56:57,Lecture Study,0,0,0,2,0.28,Valid Parenthesis String - LeetCode - Google Chrome,member4_distracted.csv
+23:57:01,Lecture Study,0,0,0,1,0.39,New Tab - Google Chrome,member4_distracted.csv
+23:57:06,Lecture Study,0,1,0,1,2.88,Valid Parenthesis String - LeetCode - Google Chrome,member4_distracted.csv
+23:57:11,Lecture Study,0,0,5,1,0.23,New Tab - Google Chrome,member4_distracted.csv
+23:57:17,Lecture Study,0,0,0,0,6.11,Instagram - Google Chrome,member4_distracted.csv
+23:57:25,Lecture Study,0,0,0,0,13.85,Instagram - Google Chrome,member4_distracted.csv
+23:57:28,Lecture Study,0,0,0,1,1.11,Instagram - Google Chrome,member4_distracted.csv
+23:57:32,Lecture Study,0,0,0,2,0.64,New Tab - Google Chrome,member4_distracted.csv
+23:57:38,Lecture Study,0,0,5,1,3.9,Feed | LinkedIn - Google Chrome,member4_distracted.csv
+23:57:43,Lecture Study,0,0,0,2,1.34,New Tab - Google Chrome,member4_distracted.csv
+23:57:46,Lecture Study,0,0,0,0,4.89,New Tab - Google Chrome,member4_distracted.csv
+23:57:52,Lecture Study,0,0,5,1,0.85,(23) Feed | LinkedIn - Google Chrome,member4_distracted.csv
+23:58:00,Lecture Study,0,0,0,0,8.78,(23) Feed | LinkedIn - Google Chrome,member4_distracted.csv
+23:58:04,Lecture Study,0,0,0,0,12.71,(23) Feed | LinkedIn - Google Chrome,member4_distracted.csv
+23:58:06,Lecture Study,0,0,0,2,0.16,New Tab - Google Chrome,member4_distracted.csv
+23:58:11,Lecture Study,0,0,6,0,1.12,spotify - Google Search - Google Chrome,member4_distracted.csv
+23:58:16,Lecture Study,0,0,0,3,1.04,New Tab - Google Chrome,member4_distracted.csv
+23:58:21,Lecture Study,0,0,7,0,1.72,netflix - Google Search - Google Chrome,member4_distracted.csv
+23:58:27,Lecture Study,0,0,0,2,2.2,"Netflix India – Watch Shows Online, Watch Movies Online - Google Chrome",member4_distracted.csv
+23:58:31,Lecture Study,0,0,0,1,3.37,New Tab - Google Chrome,member4_distracted.csv
+23:58:36,Lecture Study,0,1,0,1,3.02,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+23:58:42,Lecture Study,0,1,0,1,5.7,New Tab - Google Chrome,member4_distracted.csv
+23:58:46,Lecture Study,0,1,0,0,10.12,New Tab - Google Chrome,member4_distracted.csv
+23:58:52,Lecture Study,0,1,0,0,15.77,New Tab - Google Chrome,member4_distracted.csv
+23:58:56,Lecture Study,0,1,0,0,20.13,New Tab - Google Chrome,member4_distracted.csv
+23:59:01,Lecture Study,0,0,0,0,25.25,New Tab - Google Chrome,member4_distracted.csv
+23:59:06,Lecture Study,0,1,0,0,30.27,New Tab - Google Chrome,member4_distracted.csv
+23:59:11,Lecture Study,0,1,0,0,35.36,New Tab - Google Chrome,member4_distracted.csv
+23:59:16,Lecture Study,0,0,0,1,1.64,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+23:59:22,Lecture Study,0,0,0,1,3.27,New Tab - Google Chrome,member4_distracted.csv
+23:59:26,Lecture Study,0,0,0,1,2.17,Dynamic Programming in Game Theory for Competitive Programming - GeeksforGeeks - Google Chrome,member4_distracted.csv
+23:59:31,Lecture Study,0,1,0,0,7.12,Dynamic Programming in Game Theory for Competitive Programming - GeeksforGeeks - Google Chrome,member4_distracted.csv
+23:59:36,Lecture Study,0,1,0,0,12.33,,member4_distracted.csv
+23:59:42,Lecture Study,0,0,0,1,0.21,Discuss - LeetCode - Google Chrome,member4_distracted.csv
+23:59:46,Lecture Study,0,1,0,2,0.98,Valid Parenthesis String - LeetCode - Google Chrome,member4_distracted.csv
+23:59:52,Lecture Study,0,1,0,0,6.46,Valid Parenthesis String - LeetCode - Google Chrome,member4_distracted.csv
+23:59:56,Lecture Study,0,1,0,0,10.67,Valid Parenthesis String - LeetCode - Google Chrome,member4_distracted.csv
+00:00:01,Lecture Study,0,1,4,3,0.72,Valid Parenthesis String - LeetCode - Google Chrome,member4_distracted.csv
+00:00:06,Lecture Study,0,1,0,2,1.39,Valid Parenthesis String - LeetCode - Google Chrome,member4_distracted.csv
+00:00:12,Lecture Study,0,1,0,0,6.98,Valid Parenthesis String - LeetCode - Google Chrome,member4_distracted.csv
+00:00:16,Lecture Study,0,1,0,0,11.45,Valid Parenthesis String - LeetCode - Google Chrome,member4_distracted.csv
+00:00:22,Lecture Study,0,1,0,0,17.07,Valid Parenthesis String - LeetCode - Google Chrome,member4_distracted.csv
+00:00:27,Lecture Study,0,1,0,0,21.89,Valid Parenthesis String - LeetCode - Google Chrome,member4_distracted.csv
+00:00:31,Lecture Study,0,1,0,1,1.44,Valid Parenthesis String - LeetCode - Google Chrome,member4_distracted.csv
+00:00:36,Lecture Study,0,0,0,0,6.44,Valid Parenthesis String - LeetCode - Google Chrome,member4_distracted.csv
+00:00:42,Lecture Study,0,1,0,1,5.76,Valid Parenthesis String - LeetCode - Google Chrome,member4_distracted.csv
+00:00:47,Lecture Study,0,1,0,0,10.12,Valid Parenthesis String - LeetCode - Google Chrome,member4_distracted.csv
+00:00:51,Lecture Study,0,1,0,0,14.88,Valid Parenthesis String - LeetCode - Google Chrome,member4_distracted.csv
+00:00:58,Lecture Study,0,1,0,0,21.71,Valid Parenthesis String - LeetCode - Google Chrome,member4_distracted.csv
+00:01:06,Lecture Study,0,1,0,0,29.73,Valid Parenthesis String - LeetCode - Google Chrome,member4_distracted.csv
+00:01:07,Lecture Study,0,1,0,0,30.41,Valid Parenthesis String - LeetCode - Google Chrome,member4_distracted.csv
+00:01:13,Lecture Study,0,1,0,0,36.73,Valid Parenthesis String - LeetCode - Google Chrome,member4_distracted.csv
+00:01:18,Lecture Study,0,1,0,0,41.81,Valid Parenthesis String - LeetCode - Google Chrome,member4_distracted.csv
+00:01:23,Lecture Study,0,1,0,0,46.97,Valid Parenthesis String - LeetCode - Google Chrome,member4_distracted.csv
+00:01:27,Lecture Study,0,0,0,1,2.25,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:01:34,Lecture Study,0,0,0,1,6.53,Valid Parenthesis String - LeetCode - Google Chrome,member4_distracted.csv
+00:01:37,Lecture Study,0,0,0,2,0.67,"Netflix India – Watch Shows Online, Watch Movies Online - Google Chrome",member4_distracted.csv
+00:01:42,Lecture Study,0,0,0,0,5.75,Netflix - Google Chrome,member4_distracted.csv
+00:01:47,Lecture Study,0,0,0,3,1.68,New Tab - Google Chrome,member4_distracted.csv
+00:01:52,Lecture Study,0,0,10,1,1.53,netmirror - Google Search - Google Chrome,member4_distracted.csv
+00:01:59,Lecture Study,0,0,0,1,5.64,NetMirror – Watch Movies & TV Series Online - Google Chrome,member4_distracted.csv
+00:02:03,Lecture Study,0,0,0,0,9.32,NetMirror – Watch Movies & TV Series Online - Google Chrome,member4_distracted.csv
+00:02:07,Lecture Study,0,0,0,0,14.09,NetMirror – Watch Movies & TV Series Online - Google Chrome,member4_distracted.csv
+00:02:12,Lecture Study,0,0,3,1,0.54,New Tab - Google Chrome,member4_distracted.csv
+00:02:17,Lecture Study,0,0,12,0,0.71,animekai - Google Search - Google Chrome,member4_distracted.csv
+00:02:22,Lecture Study,0,1,0,2,2.41,Animekai – Official Watch Free Anime Online in HD - Google Chrome,member4_distracted.csv
+00:02:28,Lecture Study,0,0,0,1,0.71,Animekai – Official Watch Free Anime Online in HD - Google Chrome,member4_distracted.csv
+00:02:32,Lecture Study,0,0,7,0,1.45,Browse Anime – AnimeKai - Google Chrome,member4_distracted.csv
+00:02:38,Lecture Study,0,0,0,0,6.5,Browse Anime – AnimeKai - Google Chrome,member4_distracted.csv
+00:02:42,Lecture Study,0,0,0,1,2.13,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:02:47,Lecture Study,0,0,0,0,7.32,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:02:52,Lecture Study,0,0,13,0,1.13,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:02:59,Lecture Study,0,0,10,0,1.9,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:03:03,Lecture Study,0,0,5,1,0.32,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:03:08,Lecture Study,0,0,0,1,2.43,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:03:13,Lecture Study,0,0,0,0,7.96,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:03:18,Lecture Study,0,0,2,0,0.68,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:03:23,Lecture Study,0,0,1,0,4.31,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:03:28,Lecture Study,0,0,0,1,0.5,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:03:32,Lecture Study,1,0,0,1,3.26,focusGuard/.gitignore at main · Sakshi7654/focusGuard - Google Chrome,member4_distracted.csv
+00:03:37,Lecture Study,0,0,0,0,8.37,focusGuard/.gitignore at main · Sakshi7654/focusGuard - Google Chrome,member4_distracted.csv
+00:03:42,Lecture Study,0,0,0,0,13.44,focusGuard/.gitignore at main · Sakshi7654/focusGuard - Google Chrome,member4_distracted.csv
+00:03:47,Lecture Study,0,0,0,1,2.73,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:03:52,Lecture Study,0,0,0,0,7.75,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:03:57,Lecture Study,0,1,0,0,12.73,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:04:02,Lecture Study,0,1,0,0,17.72,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:04:07,Lecture Study,1,0,0,0,22.73,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:04:12,Lecture Study,1,0,0,0,27.73,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:04:17,Lecture Study,1,0,0,0,32.71,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:04:22,Lecture Study,1,0,0,0,37.78,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:04:27,Lecture Study,1,0,0,0,42.7,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:04:32,Lecture Study,1,0,0,0,47.7,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:04:37,Lecture Study,1,0,0,0,52.73,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:04:42,Lecture Study,1,0,0,0,57.73,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:04:47,Lecture Study,0,1,0,0,62.72,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:04:52,Lecture Study,1,1,0,0,67.73,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:04:57,Lecture Study,1,1,0,0,72.78,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:05:02,Lecture Study,1,0,0,0,77.75,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:05:07,Lecture Study,1,0,0,0,82.77,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:05:12,Lecture Study,0,0,0,1,4.18,focusGuard/.gitignore at main · Sakshi7654/focusGuard - Google Chrome,member4_distracted.csv
+00:05:18,Lecture Study,0,0,0,2,1.77,Dynamic Programming in Game Theory for Competitive Programming - GeeksforGeeks - Google Chrome,member4_distracted.csv
+00:05:24,Lecture Study,0,0,0,0,7.45,Dynamic Programming in Game Theory for Competitive Programming - GeeksforGeeks - Google Chrome,member4_distracted.csv
+00:05:28,Lecture Study,0,0,0,2,2.74,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:05:33,Lecture Study,0,0,7,0,1.29,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:05:38,Lecture Study,0,0,2,0,4.5,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:05:43,Lecture Study,0,0,1,0,2.02,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:05:48,Lecture Study,0,0,0,0,6.98,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:05:53,Lecture Study,0,0,0,0,11.9,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:05:57,Lecture Study,0,0,0,0,16.7,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:06:03,Lecture Study,0,0,1,0,3.93,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:06:08,Lecture Study,0,0,3,0,0.42,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:06:13,Lecture Study,0,0,1,0,2.37,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:06:18,Lecture Study,0,0,0,0,7.17,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:06:23,Lecture Study,0,0,0,0,12.6,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:06:28,Lecture Study,0,0,0,0,17.21,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:06:33,Lecture Study,0,0,1,0,1.67,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:06:38,Lecture Study,0,0,0,0,6.72,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:06:43,Lecture Study,0,0,0,0,11.72,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:06:49,Lecture Study,0,0,0,0,17.49,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:06:53,Lecture Study,0,0,0,2,1.97,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:06:59,Lecture Study,0,0,0,3,1.55,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:07:03,Lecture Study,0,0,0,0,5.86,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:07:09,Lecture Study,0,0,0,0,11.76,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:07:15,Lecture Study,0,0,0,0,17.35,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:07:19,Lecture Study,0,0,0,0,21.71,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:07:24,Lecture Study,0,0,0,0,26.89,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:07:29,Lecture Study,0,0,0,0,31.73,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:07:33,Lecture Study,0,0,0,0,36.17,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:07:39,Lecture Study,0,0,0,0,41.94,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:07:44,Lecture Study,0,0,0,0,46.88,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:07:48,Lecture Study,0,0,0,0,51.25,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:07:53,Lecture Study,0,0,0,1,1.07,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:07:58,Lecture Study,0,0,0,1,3.59,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:08:03,Lecture Study,0,0,0,1,1.45,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:08:08,Lecture Study,0,1,0,0,6.35,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:08:13,Lecture Study,0,0,0,0,11.44,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:08:18,Lecture Study,0,1,0,0,16.33,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:08:23,Lecture Study,0,0,0,0,21.41,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:08:28,Lecture Study,1,0,0,0,26.36,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:08:33,Lecture Study,1,0,0,0,31.38,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:08:38,Lecture Study,1,0,0,0,36.36,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:08:43,Lecture Study,1,0,0,0,41.32,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:08:48,Lecture Study,0,1,0,0,46.36,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:08:53,Lecture Study,1,0,0,0,51.35,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:08:58,Lecture Study,1,1,0,0,56.38,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:09:03,Lecture Study,1,1,0,0,61.35,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:09:08,Lecture Study,1,1,0,0,66.41,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:09:13,Lecture Study,1,1,0,0,71.4,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:09:18,Lecture Study,1,1,0,0,76.41,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:09:23,Lecture Study,1,0,0,0,81.36,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:09:28,Lecture Study,1,0,0,0,86.36,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:09:33,Lecture Study,1,1,0,0,91.35,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:09:38,Lecture Study,1,1,0,0,96.4,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:09:43,Lecture Study,1,0,0,0,101.37,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:09:48,Lecture Study,1,0,0,0,106.35,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:09:53,Lecture Study,1,0,0,0,111.34,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:09:58,Lecture Study,1,0,0,0,116.4,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:10:03,Lecture Study,1,0,0,0,121.36,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:10:08,Lecture Study,1,0,0,0,126.34,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:10:13,Lecture Study,1,1,0,0,131.4,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:10:18,Lecture Study,1,0,0,0,136.46,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:10:23,Lecture Study,1,1,0,0,141.36,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:10:28,Lecture Study,1,0,0,0,146.36,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:10:33,Lecture Study,1,1,0,0,151.45,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:10:38,Lecture Study,1,1,0,0,156.37,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:10:43,Lecture Study,1,1,0,0,161.36,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:10:48,Lecture Study,1,0,0,0,166.4,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:10:53,Lecture Study,1,0,0,0,171.39,Naruto Shippuden the Movie 6: Road to Ninja Episode 1 English Sub - AnimeKai - Google Chrome,member4_distracted.csv
+00:10:58,Lecture Study,0,0,0,1,3.74,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:11:03,Lecture Study,0,0,0,0,8.77,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:11:08,Lecture Study,0,0,0,0,13.78,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:11:13,Lecture Study,0,0,0,0,18.76,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:11:18,Lecture Study,0,0,0,0,23.77,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:11:23,Lecture Study,0,0,0,0,28.8,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:11:28,Lecture Study,0,0,0,0,33.8,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:11:33,Lecture Study,0,0,0,0,38.83,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:11:38,Lecture Study,0,0,0,0,43.8,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:11:43,Lecture Study,0,0,0,0,48.85,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:11:48,Lecture Study,0,0,0,0,53.82,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:11:53,Lecture Study,0,0,0,0,58.82,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:11:58,Lecture Study,0,0,0,0,63.84,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:12:03,Lecture Study,0,0,0,0,68.84,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:12:08,Lecture Study,0,0,0,0,73.89,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:12:13,Lecture Study,0,0,0,0,78.84,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:12:18,Lecture Study,0,0,0,0,83.85,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:12:23,Lecture Study,0,0,0,0,88.86,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:12:28,Lecture Study,0,0,0,0,93.86,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:12:33,Lecture Study,0,0,0,0,98.85,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:12:38,Lecture Study,0,0,0,0,103.85,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:12:43,Lecture Study,0,0,0,0,108.85,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+00:12:48,Lecture Study,0,1,0,0,113.87,data_collector.py - ProjectSC - Visual Studio Code,member4_distracted.csv
+06:57:32,Lecture Study,0,0,16,2,4.1,vision_tracker.py - ProjectSC - Visual Studio Code,member4_focused.csv
+06:57:34,Lecture Study,0,0,0,0,5.27,vision_tracker.py - ProjectSC - Visual Studio Code,member4_focused.csv
+06:57:39,Lecture Study,0,0,0,2,1.18,New Tab - Google Chrome,member4_focused.csv
+06:57:45,Lecture Study,0,0,6,1,1.36,SWAYAM - Google Chrome,member4_focused.csv
+06:57:49,Lecture Study,1,0,0,1,3.03,SWAYAM Login - Google Chrome,member4_focused.csv
+06:57:55,Lecture Study,0,0,0,1,0.9,Untitled - Google Chrome,member4_focused.csv
+06:57:59,Lecture Study,0,0,0,1,2.98,SWAYAM Login - Google Chrome,member4_focused.csv
+06:58:04,Lecture Study,0,0,0,1,4.38,Sign in - Google Accounts - Google Chrome,member4_focused.csv
+06:58:09,Lecture Study,0,0,0,1,4.22,Sign in - Google Accounts - Google Chrome,member4_focused.csv
+06:58:14,Lecture Study,0,0,0,1,0.19,SWAYAM - Google Chrome,member4_focused.csv
+06:58:19,Lecture Study,0,0,0,1,3.89,SWAYAM - Google Chrome,member4_focused.csv
+06:58:25,Lecture Study,0,0,0,1,4.14,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+06:58:30,Lecture Study,0,0,0,2,1.5,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+06:58:34,Lecture Study,0,0,0,1,0.35,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+06:58:39,Lecture Study,0,0,0,0,5.41,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+06:58:44,Lecture Study,0,0,0,0,10.25,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+06:58:49,Lecture Study,0,0,0,0,15.31,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+06:58:54,Lecture Study,0,0,0,1,1.19,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+06:58:59,Lecture Study,0,0,0,1,2.59,Assignment-ETH-2-SOL-2026.pdf - Google Drive - Google Chrome,member4_focused.csv
+06:59:04,Lecture Study,0,0,0,0,7.69,Assignment-ETH-2-SOL-2026.pdf - Google Drive - Google Chrome,member4_focused.csv
+06:59:09,Lecture Study,0,0,0,0,12.59,Assignment-ETH-2-SOL-2026.pdf - Google Drive - Google Chrome,member4_focused.csv
+06:59:15,Lecture Study,0,0,0,0,17.9,Assignment-ETH-2-SOL-2026.pdf - Google Drive - Google Chrome,member4_focused.csv
+06:59:19,Lecture Study,0,0,0,0,22.75,Assignment-ETH-2-SOL-2026.pdf - Google Drive - Google Chrome,member4_focused.csv
+06:59:24,Lecture Study,0,0,0,0,27.79,Assignment-ETH-2-SOL-2026.pdf - Google Drive - Google Chrome,member4_focused.csv
+06:59:29,Lecture Study,0,0,0,0,32.81,Assignment-ETH-2-SOL-2026.pdf - Google Drive - Google Chrome,member4_focused.csv
+06:59:34,Lecture Study,0,0,0,0,37.72,Assignment-ETH-2-SOL-2026.pdf - Google Drive - Google Chrome,member4_focused.csv
+06:59:40,Lecture Study,0,0,0,0,43.02,Assignment-ETH-2-SOL-2026.pdf - Google Drive - Google Chrome,member4_focused.csv
+06:59:44,Lecture Study,0,0,0,0,47.74,Assignment-ETH-2-SOL-2026.pdf - Google Drive - Google Chrome,member4_focused.csv
+06:59:49,Lecture Study,0,0,0,0,52.73,Assignment-ETH-2-SOL-2026.pdf - Google Drive - Google Chrome,member4_focused.csv
+06:59:54,Lecture Study,0,0,0,0,57.69,Assignment-ETH-2-SOL-2026.pdf - Google Drive - Google Chrome,member4_focused.csv
+06:59:59,Lecture Study,0,0,0,0,62.81,Assignment-ETH-2-SOL-2026.pdf - Google Drive - Google Chrome,member4_focused.csv
+07:00:04,Lecture Study,0,0,0,0,67.79,Assignment-ETH-2-SOL-2026.pdf - Google Drive - Google Chrome,member4_focused.csv
+07:00:09,Lecture Study,0,0,0,0,72.81,Assignment-ETH-2-SOL-2026.pdf - Google Drive - Google Chrome,member4_focused.csv
+07:00:14,Lecture Study,0,0,0,0,77.79,Assignment-ETH-2-SOL-2026.pdf - Google Drive - Google Chrome,member4_focused.csv
+07:00:21,Lecture Study,0,0,0,2,0.35,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:00:24,Lecture Study,0,0,0,1,0.39,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:00:30,Lecture Study,0,0,0,3,0.54,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:00:34,Lecture Study,0,0,6,1,0.13,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:00:42,Lecture Study,1,0,4,0,0.09,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:00:45,Lecture Study,0,0,1,0,0.99,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:00:51,Lecture Study,1,0,4,0,0.08,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:00:55,Lecture Study,0,0,1,0,4.58,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:01:00,Lecture Study,0,0,0,0,9.33,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:01:07,Lecture Study,0,0,0,0,16.7,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:01:11,Lecture Study,0,0,0,0,20.01,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:01:16,Lecture Study,0,0,0,0,25.52,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:01:21,Lecture Study,1,0,0,0,30.62,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:01:25,Lecture Study,1,0,0,0,34.26,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:01:30,Lecture Study,0,0,0,0,39.35,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:01:35,Lecture Study,0,0,0,0,44.39,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:01:42,Lecture Study,1,0,0,0,51.01,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:01:47,Lecture Study,0,0,0,0,55.96,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:01:51,Lecture Study,1,0,0,0,60.61,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:01:55,Lecture Study,1,0,1,0,0.93,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:02:01,Lecture Study,0,0,0,0,6.76,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:02:06,Lecture Study,1,0,0,0,12.06,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:02:13,Lecture Study,1,0,0,0,18.28,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:02:15,Lecture Study,1,0,0,0,20.37,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:02:20,Lecture Study,0,0,0,0,25.41,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:02:26,Lecture Study,0,0,0,0,31.84,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:02:31,Lecture Study,0,0,0,0,36.88,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:02:35,Lecture Study,0,0,0,0,40.81,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:02:40,Lecture Study,0,0,0,0,45.97,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:02:45,Lecture Study,1,0,3,0,3.43,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:02:51,Lecture Study,0,0,0,0,9.46,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:02:57,Lecture Study,1,0,0,0,15.09,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:03:01,Lecture Study,0,0,0,0,19.81,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:03:05,Lecture Study,0,0,0,0,23.74,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:03:10,Lecture Study,1,0,0,0,28.88,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:03:14,Lecture Study,0,0,0,0,32.93,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:03:20,Lecture Study,0,0,1,0,0.5,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:03:25,Lecture Study,0,0,0,0,5.33,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:03:31,Lecture Study,0,0,0,0,11.74,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:03:35,Lecture Study,0,0,1,0,3.79,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:03:41,Lecture Study,0,0,0,0,9.41,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:03:45,Lecture Study,0,0,0,0,13.62,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:03:50,Lecture Study,0,0,0,0,18.95,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:03:55,Lecture Study,0,0,0,0,23.97,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:04:00,Lecture Study,0,0,0,0,28.57,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:04:07,Lecture Study,0,0,0,0,35.03,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:04:09,Lecture Study,0,0,0,0,37.89,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:04:15,Lecture Study,0,0,1,0,2.87,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:04:20,Lecture Study,1,0,0,0,7.62,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:04:25,Lecture Study,0,0,0,0,12.96,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:04:31,Lecture Study,0,0,0,0,19.25,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:04:35,Lecture Study,0,0,12,0,0.07,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:04:43,Lecture Study,0,0,1,0,7.54,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:04:46,Lecture Study,0,0,0,0,10.73,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:04:50,Lecture Study,0,0,0,0,15.19,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:04:56,Lecture Study,0,0,0,0,20.61,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:05:00,Lecture Study,1,1,0,0,25.21,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:05:06,Lecture Study,0,0,1,0,0.25,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:05:11,Lecture Study,0,0,0,0,5.64,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:05:16,Lecture Study,0,0,0,0,9.72,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:05:20,Lecture Study,0,1,1,0,0.53,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:05:26,Lecture Study,1,1,1,0,2.67,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:05:29,Lecture Study,0,0,1,0,1.51,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:05:37,Lecture Study,1,0,0,0,8.7,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:05:42,Lecture Study,0,0,0,0,13.64,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:05:46,Lecture Study,0,0,0,0,18.3,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:05:50,Lecture Study,0,0,0,0,22.24,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:05:56,Lecture Study,0,0,0,0,27.77,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:06:00,Lecture Study,0,0,0,0,32.46,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:06:07,Lecture Study,1,0,0,0,38.66,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:06:10,Lecture Study,0,0,0,0,41.93,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:06:16,Lecture Study,0,0,0,0,47.98,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:06:20,Lecture Study,1,0,0,0,52.02,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:06:27,Lecture Study,0,0,0,0,58.79,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:06:31,Lecture Study,0,0,0,0,63.15,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:06:35,Lecture Study,0,0,0,0,67.43,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:06:41,Lecture Study,0,0,0,0,73.14,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:06:44,Lecture Study,0,0,0,0,76.55,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:06:51,Lecture Study,1,0,0,0,82.98,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:06:56,Lecture Study,0,0,0,0,88.58,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:07:00,Lecture Study,0,0,0,0,92.06,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:07:06,Lecture Study,0,0,0,0,97.83,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:07:11,Lecture Study,0,0,0,0,103.01,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:07:16,Lecture Study,0,0,0,0,108.12,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:07:21,Lecture Study,0,0,0,0,113.04,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:07:27,Lecture Study,0,0,0,0,118.73,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:07:30,Lecture Study,0,0,0,0,122.43,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:07:35,Lecture Study,0,0,0,0,127.29,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:07:42,Lecture Study,0,0,0,0,133.69,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:07:44,Lecture Study,0,0,0,0,136.57,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:07:51,Lecture Study,0,0,0,0,142.8,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:07:56,Lecture Study,0,0,0,0,148.38,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:08:01,Lecture Study,1,0,0,0,153.29,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:08:06,Lecture Study,0,0,0,0,158.6,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:08:11,Lecture Study,0,0,0,0,163.58,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:08:17,Lecture Study,0,0,0,0,168.63,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:08:21,Lecture Study,0,0,0,0,173.31,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:08:25,Lecture Study,1,0,0,0,177.19,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:08:35,Lecture Study,1,0,0,0,187.03,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:08:36,Lecture Study,1,0,0,0,187.97,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:08:43,Lecture Study,1,0,0,0,194.79,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:08:46,Lecture Study,1,0,0,0,197.93,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:08:51,Lecture Study,1,0,0,0,202.82,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:08:58,Lecture Study,0,0,0,0,210.18,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:09:02,Lecture Study,0,0,0,0,214.03,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:09:07,Lecture Study,0,0,0,0,218.9,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:09:12,Lecture Study,0,0,0,0,223.78,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:09:17,Lecture Study,1,0,0,0,229.6,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:09:22,Lecture Study,0,0,0,0,234.44,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:09:26,Lecture Study,1,0,0,0,238.33,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:09:31,Lecture Study,0,0,0,0,243.23,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:09:36,Lecture Study,0,0,2,0,0.9,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:09:43,Lecture Study,0,0,0,0,8.53,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:09:48,Lecture Study,0,0,0,0,12.89,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:09:57,Lecture Study,0,0,0,0,22.4,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:09:58,Lecture Study,0,0,0,0,23.38,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:10:04,Lecture Study,0,0,0,0,28.84,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:10:08,Lecture Study,0,0,0,0,33.72,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:10:14,Lecture Study,0,0,0,0,39.27,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:10:19,Lecture Study,0,0,0,0,44.44,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:10:26,Lecture Study,0,0,0,0,51.0,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:10:30,Lecture Study,0,0,0,0,55.15,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:10:35,Lecture Study,1,0,0,0,60.45,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:10:38,Lecture Study,0,0,0,0,63.58,Program Manager,member4_focused.csv
+07:10:43,Lecture Study,0,0,0,0,68.46,Program Manager,member4_focused.csv
+07:10:50,Lecture Study,0,0,0,0,75.42,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:10:55,Lecture Study,0,0,0,0,80.06,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:11:00,Lecture Study,0,0,0,0,84.89,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:11:05,Lecture Study,1,0,0,0,89.95,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:11:10,Lecture Study,0,0,0,0,95.2,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:11:13,Lecture Study,0,0,0,0,98.6,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:11:18,Lecture Study,0,0,1,0,1.28,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:11:25,Lecture Study,1,1,0,0,8.13,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:11:29,Lecture Study,1,0,0,0,12.03,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:11:35,Lecture Study,1,0,0,0,18.2,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:11:38,Lecture Study,1,0,0,0,21.83,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:11:45,Lecture Study,0,0,0,2,5.75,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:11:49,Lecture Study,0,0,0,0,9.28,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:11:54,Lecture Study,0,0,0,0,14.27,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:12:00,Lecture Study,0,0,0,0,20.52,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:12:03,Lecture Study,0,0,0,0,23.87,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:12:08,Lecture Study,0,0,0,0,28.88,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:12:13,Lecture Study,0,0,0,0,33.99,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:12:19,Lecture Study,1,0,0,0,39.65,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:12:24,Lecture Study,0,0,0,0,44.98,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:12:29,Lecture Study,1,0,0,0,49.69,Your battery is running low.,member4_focused.csv
+07:12:34,Lecture Study,1,0,0,1,4.51,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:12:39,Lecture Study,1,0,0,0,8.8,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:12:44,Lecture Study,1,0,0,0,13.63,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:12:52,Lecture Study,0,0,0,0,21.96,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:12:53,Lecture Study,0,0,0,0,23.53,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:12:59,Lecture Study,1,0,0,0,28.79,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:13:05,Lecture Study,0,0,0,0,35.45,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:13:09,Lecture Study,1,0,0,0,38.65,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:13:13,Lecture Study,0,0,0,0,43.46,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:13:18,Lecture Study,0,0,0,0,48.29,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:13:23,Lecture Study,0,0,0,0,53.39,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:13:28,Lecture Study,0,0,0,0,58.32,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:13:33,Lecture Study,1,0,0,0,63.36,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:13:38,Lecture Study,0,0,0,0,68.27,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:13:43,Lecture Study,0,0,0,0,73.28,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:13:49,Lecture Study,0,0,0,0,78.6,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:13:53,Lecture Study,0,0,0,0,83.3,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:13:58,Lecture Study,0,0,0,0,88.29,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:14:03,Lecture Study,0,0,0,0,93.29,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:14:08,Lecture Study,0,0,0,0,98.28,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:14:13,Lecture Study,0,0,0,0,103.27,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:14:18,Lecture Study,0,0,0,0,108.29,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:14:23,Lecture Study,0,0,0,0,113.27,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:14:28,Lecture Study,0,0,0,0,118.27,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:14:33,Lecture Study,0,0,0,0,123.27,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:14:38,Lecture Study,0,0,0,0,128.43,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:14:44,Lecture Study,0,0,0,0,133.61,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:14:48,Lecture Study,1,0,0,0,138.26,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:14:53,Lecture Study,0,0,0,0,143.26,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:14:58,Lecture Study,0,0,0,0,148.28,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:15:03,Lecture Study,0,0,0,0,153.33,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:15:08,Lecture Study,0,0,0,0,158.27,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:15:13,Lecture Study,0,0,0,0,163.29,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:15:18,Lecture Study,0,0,0,0,168.27,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:15:23,Lecture Study,0,0,0,0,173.28,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:15:28,Lecture Study,0,0,1,1,1.4,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:15:33,Lecture Study,0,0,0,1,1.04,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:15:38,Lecture Study,0,0,0,1,1.04,vision_tracker.py - ProjectSC - Visual Studio Code,member4_focused.csv
+07:15:43,Lecture Study,0,0,0,0,5.53,vision_tracker.py - ProjectSC - Visual Studio Code,member4_focused.csv
+07:15:48,Lecture Study,0,0,0,3,0.52,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:15:53,Lecture Study,0,0,0,2,0.77,vision_tracker.py - ProjectSC - Visual Studio Code,member4_focused.csv
+07:15:58,Lecture Study,0,0,0,0,5.3,vision_tracker.py - ProjectSC - Visual Studio Code,member4_focused.csv
+07:16:03,Lecture Study,0,0,0,0,10.3,vision_tracker.py - ProjectSC - Visual Studio Code,member4_focused.csv
+07:16:08,Lecture Study,0,0,0,0,15.33,vision_tracker.py - ProjectSC - Visual Studio Code,member4_focused.csv
+07:16:13,Lecture Study,0,0,0,1,0.72,WhatsApp,member4_focused.csv
+07:16:18,Lecture Study,0,0,0,1,2.95,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:16:23,Lecture Study,0,0,0,1,2.46,vision_tracker.py - ProjectSC - Visual Studio Code,member4_focused.csv
+07:16:28,Lecture Study,0,0,0,2,1.26,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:16:33,Lecture Study,0,0,0,0,6.25,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:16:38,Lecture Study,0,0,0,0,11.29,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:16:43,Lecture Study,0,1,0,0,16.24,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:16:48,Lecture Study,0,1,0,0,21.24,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:16:53,Lecture Study,0,0,0,0,26.24,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:16:58,Lecture Study,0,0,0,1,2.51,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:17:03,Lecture Study,0,0,0,0,7.5,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:17:08,Lecture Study,0,0,0,0,12.52,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:17:13,Lecture Study,0,0,0,0,17.5,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:17:18,Lecture Study,1,0,0,0,22.51,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:17:23,Lecture Study,0,0,0,0,27.48,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:17:28,Lecture Study,1,0,0,0,32.47,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:17:33,Lecture Study,0,0,0,0,37.51,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:17:38,Lecture Study,1,0,0,0,42.49,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:17:43,Lecture Study,0,0,0,0,47.51,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:17:48,Lecture Study,0,0,0,0,52.47,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:17:53,Lecture Study,0,0,0,0,57.52,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:17:58,Lecture Study,0,0,0,0,62.49,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:18:03,Lecture Study,0,0,0,0,67.54,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:18:08,Lecture Study,1,0,0,0,72.53,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:18:13,Lecture Study,0,0,1,0,1.11,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:18:18,Lecture Study,0,0,0,1,0.69,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:18:23,Lecture Study,0,0,0,1,3.68,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:18:28,Lecture Study,0,0,0,0,8.71,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:18:33,Lecture Study,0,0,0,0,13.68,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:18:38,Lecture Study,1,0,0,0,18.64,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:18:43,Lecture Study,0,0,0,0,23.68,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:18:48,Lecture Study,0,0,0,0,28.67,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:18:53,Lecture Study,0,0,1,0,1.26,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:18:58,Lecture Study,0,0,0,0,6.23,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:19:03,Lecture Study,0,0,2,0,1.35,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:19:08,Lecture Study,0,0,0,0,6.34,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:19:13,Lecture Study,0,0,1,0,0.76,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:19:18,Lecture Study,0,0,0,1,3.66,WhatsApp,member4_focused.csv
+07:19:23,Lecture Study,0,0,0,0,8.74,WhatsApp,member4_focused.csv
+07:19:28,Lecture Study,0,0,0,1,2.69,vision_tracker.py - ProjectSC - Visual Studio Code,member4_focused.csv
+07:19:33,Lecture Study,0,0,0,1,4.09,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:19:38,Lecture Study,0,0,2,1,1.57,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:19:43,Lecture Study,0,0,1,0,2.1,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:19:48,Lecture Study,0,0,0,0,6.94,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:19:53,Lecture Study,0,0,0,0,11.92,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:19:58,Lecture Study,0,0,0,0,16.96,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv
+07:20:03,Lecture Study,0,0,0,1,0.24,Course: Ethical Hacking | SWAYAM - Google Chrome,member4_focused.csv

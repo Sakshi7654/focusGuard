@@ -1,4 +1,9 @@
-from context_evaluator import evaluate_context_relevance
+# from context_evaluator import evaluate_context_relevance
+try:
+    from src.context_evaluator import evaluate_context_relevance
+except ModuleNotFoundError:
+    from context_evaluator import evaluate_context_relevance
+
 
 def evaluate_behavior(row: dict) -> dict:
     """
